@@ -1,6 +1,6 @@
 # Robotics Study Lab
 
-Website luyện thi song ngữ Anh–Việt, gồm 4 chương × 50 câu, chạy bằng HTML/CSS/JavaScript thuần và không cần cài thư viện để sử dụng.
+Website luyện thi song ngữ Anh–Việt, gồm 5 chương × 50 câu, chạy bằng HTML/CSS/JavaScript thuần và không cần cài thư viện để sử dụng.
 
 ## Chạy trên máy
 
@@ -17,7 +17,7 @@ Trong thư mục này, chạy `python -m http.server 4173 --bind 127.0.0.1 --dir
 
 ## Dữ liệu và nguồn
 
-`source/questions-original.txt` là bản sao nguyên văn tài liệu được cung cấp. Chọn đúng 4 bộ #2–#5, mỗi bộ 50 câu. Bộ nhập môn #1 và các câu bổ sung ngoài 4 bộ chính không đưa vào bài thi.
+`source/questions-original.txt` là bản sao nguyên văn tài liệu được cung cấp. Chọn đúng 5 bộ #1–#5, mỗi bộ 50 câu. Bộ #1 là Chương 1; Robot Perception & Control là Chương 2.
 
 `scripts/import-questions.mjs` tách câu hỏi, đáp án và giải thích thành `dist/questions.js`. Đáp án đúng tham chiếu mã A/B/C/D trong tài liệu gốc, không phụ thuộc thứ tự hiển thị.
 
@@ -32,7 +32,7 @@ Tái tạo dữ liệu: `node scripts/import-questions.mjs`. Kiểm tra cú phá
 - `dist/index.html`: trang chính.
 - `dist/styles.css`: giao diện desktop/mobile.
 - `dist/app.js`: trạng thái bài thi, chấm điểm, lưu tiến độ.
-- `dist/questions.js`: 200 câu song ngữ.
+- `dist/questions.js`: 250 câu song ngữ.
 - `source/`: tài liệu gốc và bản dịch bổ sung.
 - `scripts/`: nhập dữ liệu và kiểm tra chức năng.
 

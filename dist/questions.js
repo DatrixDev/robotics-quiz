@@ -1,5 +1,1871 @@
 window.QUESTION_BANK = [
   {
+    "id": "foundations",
+    "title": "AI & Robotics #1",
+    "questions": [
+      {
+        "id": "foundations-1",
+        "number": 1,
+        "en": "What is a modern robot mainly considered to be?",
+        "vi": "Robot hiện đại chủ yếu được xem là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Only a mechanical system",
+            "vi": "Chỉ là hệ thống cơ khí",
+            "original": "Only a mechanical system — Chỉ là hệ thống cơ khí"
+          },
+          {
+            "id": "B",
+            "en": "A combination of mechanical, electronics, control, software, and AI",
+            "vi": "Sự kết hợp của cơ khí, điện tử, điều khiển, phần mềm và AI",
+            "original": "A combination of mechanical, electronics, control, software, and AI — Sự kết hợp của cơ khí, điện tử, điều khiển, phần mềm và AI"
+          },
+          {
+            "id": "C",
+            "en": "Only a computer system",
+            "vi": "Chỉ là hệ thống máy tính",
+            "original": "Only a computer system — Chỉ là hệ thống máy tính"
+          },
+          {
+            "id": "D",
+            "en": "Only an electronic device",
+            "vi": "Chỉ là thiết bị điện tử",
+            "original": "Only an electronic device — Chỉ là thiết bị điện tử"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Theo bài học, robot hiện đại là sự kết hợp:\nMechanical + Electronics + Control + Software + AI.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-2",
+        "number": 2,
+        "en": "How many main components are included in the robot architecture?",
+        "vi": "Kiến trúc robot gồm bao nhiêu thành phần chính?",
+        "options": [
+          {
+            "id": "A",
+            "en": "3",
+            "vi": "3",
+            "original": "3"
+          },
+          {
+            "id": "B",
+            "en": "4",
+            "vi": "4",
+            "original": "4"
+          },
+          {
+            "id": "C",
+            "en": "5",
+            "vi": "5",
+            "original": "5"
+          },
+          {
+            "id": "D",
+            "en": "6",
+            "vi": "6",
+            "original": "6"
+          }
+        ],
+        "correct": "C",
+        "explanation": "Có 5 thành phần: Mechanical system, Sensors, Actuators, Computing/Controller và Software/AI.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-3",
+        "number": 3,
+        "en": "Which component detects information from the environment?",
+        "vi": "Thành phần nào thu nhận thông tin từ môi trường?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor — Cảm biến"
+          },
+          {
+            "id": "B",
+            "en": "Actuator",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuator — Cơ cấu chấp hành"
+          },
+          {
+            "id": "C",
+            "en": "Motor",
+            "vi": "Động cơ",
+            "original": "Motor — Động cơ"
+          },
+          {
+            "id": "D",
+            "en": "Controller",
+            "vi": "Bộ điều khiển",
+            "original": "Controller — Bộ điều khiển"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Sensor thu nhận dữ liệu từ môi trường để robot biết trạng thái xung quanh."
+      },
+      {
+        "id": "foundations-4",
+        "number": 4,
+        "en": "Which component performs physical actions?",
+        "vi": "Thành phần nào thực hiện các hành động vật lý?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor — Cảm biến"
+          },
+          {
+            "id": "B",
+            "en": "Actuator",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuator — Cơ cấu chấp hành"
+          },
+          {
+            "id": "C",
+            "en": "Software",
+            "vi": "Phần mềm",
+            "original": "Software — Phần mềm"
+          },
+          {
+            "id": "D",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI — Trí tuệ nhân tạo"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Actuator nhận lệnh điều khiển và tạo ra hành động vật lý."
+      },
+      {
+        "id": "foundations-5",
+        "number": 5,
+        "en": "Which component is responsible for computation and control?",
+        "vi": "Thành phần nào chịu trách nhiệm tính toán và điều khiển?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Mechanical system",
+            "vi": "Hệ thống cơ khí",
+            "original": "Mechanical system",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Computing/Controller",
+            "vi": "Bộ tính toán/Bộ điều khiển",
+            "original": "Computing/Controller",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Wheel",
+            "vi": "Bánh xe",
+            "original": "Wheel",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Computing/Controller = bộ tính toán/bộ điều khiển, là một trong 5 thành phần của kiến trúc robot.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-6",
+        "number": 6,
+        "en": "Which of the following is NOT one of the five main robot architecture components?",
+        "vi": "Thành phần nào sau đây KHÔNG thuộc 5 thành phần chính của kiến trúc robot?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensors",
+            "vi": "Cảm biến",
+            "original": "Sensors",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Actuators",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuators",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Database",
+            "vi": "Cơ sở dữ liệu",
+            "original": "Database",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Software/AI",
+            "vi": "Phần mềm/AI",
+            "original": "Software/AI",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Database không nằm trong danh sách 5 thành phần của bài."
+      },
+      {
+        "id": "foundations-7",
+        "number": 7,
+        "en": "Which component represents the physical structure of a robot?",
+        "vi": "Thành phần nào đại diện cho cấu trúc vật lý của robot?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Mechanical system",
+            "vi": "Hệ thống cơ khí",
+            "original": "Mechanical system",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Software",
+            "vi": "Phần mềm",
+            "original": "Software",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Mechanical system = hệ thống cơ khí, tức phần cấu trúc vật lý của robot."
+      },
+      {
+        "id": "foundations-8",
+        "number": 8,
+        "en": "Which component gives a robot intelligent processing capabilities?",
+        "vi": "Thành phần nào cung cấp cho robot khả năng xử lý thông minh?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Mechanical system",
+            "vi": "Hệ thống cơ khí",
+            "original": "Mechanical system",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Software/AI",
+            "vi": "Phần mềm/AI",
+            "original": "Software/AI",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Wheels",
+            "vi": "Bánh xe",
+            "original": "Wheels",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Battery",
+            "vi": "Pin",
+            "original": "Battery",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Software/AI đảm nhiệm phần phần mềm và trí tuệ của hệ thống."
+      },
+      {
+        "id": "foundations-9",
+        "number": 9,
+        "en": "Which of the following is mentioned as a type of modern robot?",
+        "vi": "Loại nào sau đây được đề cập là một loại robot hiện đại?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Mobile Robot",
+            "vi": "Robot di động",
+            "original": "Mobile Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Email Robot",
+            "vi": "Robot email",
+            "original": "Email Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Database Robot",
+            "vi": "Robot cơ sở dữ liệu",
+            "original": "Database Robot",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Browser Robot",
+            "vi": "Robot trình duyệt",
+            "original": "Browser Robot",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Bài học đề cập Industrial Robot, Mobile Robot, AMR/AGV, Service Robot và AI Robot.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-10",
+        "number": 10,
+        "en": "Which of the following is NOT mentioned as a type of modern robot?",
+        "vi": "Loại nào sau đây KHÔNG được đề cập là một loại robot hiện đại?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Industrial Robot",
+            "vi": "Robot công nghiệp",
+            "original": "Industrial Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Mobile Robot",
+            "vi": "Robot di động",
+            "original": "Mobile Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Service Robot",
+            "vi": "Robot dịch vụ",
+            "original": "Service Robot",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Database Robot",
+            "vi": "Robot cơ sở dữ liệu",
+            "original": "Database Robot",
+            "translated": true
+          }
+        ],
+        "correct": "D",
+        "explanation": "Database Robot không xuất hiện trong danh sách của bài.\nTraditional Robot vs. AI Robot"
+      },
+      {
+        "id": "foundations-11",
+        "number": 11,
+        "en": "What is the correct flow of a traditional robot?",
+        "vi": "Luồng hoạt động đúng của robot truyền thống là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor → AI → Motor",
+            "vi": "Cảm biến → AI → Động cơ",
+            "original": "Sensor → AI → Motor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Sensor → Rule → Motor",
+            "vi": "Cảm biến → Quy tắc → Động cơ",
+            "original": "Sensor → Rule → Motor",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "AI → Decision → Motor",
+            "vi": "AI → Quyết định → Động cơ",
+            "original": "AI → Decision → Motor",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Camera → AI → Motor",
+            "vi": "Camera → AI → Động cơ",
+            "original": "Camera → AI → Motor",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Đây là công thức rất quan trọng:\nTraditional Robot: Sensor → Rule → Motor.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-12",
+        "number": 12,
+        "en": "What comes after the sensor in a traditional robot?",
+        "vi": "Thành phần nào đứng sau Sensor trong robot truyền thống?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Rule",
+            "vi": "Quy tắc",
+            "original": "Rule",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Perception",
+            "vi": "Nhận thức",
+            "original": "Perception",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Decision",
+            "vi": "Quyết định",
+            "original": "Decision",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Sensor → Rule → Motor, nên sau Sensor là Rule (luật)."
+      },
+      {
+        "id": "foundations-13",
+        "number": 13,
+        "en": "What is the correct flow of an AI robot?",
+        "vi": "Luồng hoạt động đúng của AI Robot là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor → Rule → Motor",
+            "vi": "Cảm biến → Quy tắc → Động cơ",
+            "original": "Sensor → Rule → Motor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Sensor/Camera → Perception → AI → Decision → Control → Motor",
+            "vi": "Cảm biến/Camera → Nhận thức → AI → Quyết định → Điều khiển → Động cơ",
+            "original": "Sensor/Camera → Perception → AI → Decision → Control → Motor",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Motor → AI → Sensor",
+            "vi": "Động cơ → AI → Cảm biến",
+            "original": "Motor → AI → Sensor",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "AI → Camera → Control",
+            "vi": "AI → Camera → Điều khiển",
+            "original": "AI → Camera → Control",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Đây là chuỗi cần học thuộc:\nSensor/Camera → Perception → AI → Decision → Control → Motor.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-14",
+        "number": 14,
+        "en": "What comes immediately after Sensor/Camera in an AI robot?",
+        "vi": "Thành phần nào xuất hiện ngay sau Sensor/Camera trong AI Robot?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Motor",
+            "vi": "Động cơ",
+            "original": "Motor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Decision",
+            "vi": "Quyết định",
+            "original": "Decision",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Perception",
+            "vi": "Nhận thức",
+            "original": "Perception",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Control",
+            "vi": "Điều khiển",
+            "original": "Control",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Sensor/Camera → Perception → AI.\nPerception = nhận thức/xử lý dữ liệu cảm nhận."
+      },
+      {
+        "id": "foundations-15",
+        "number": 15,
+        "en": "What comes immediately after Perception?",
+        "vi": "Thành phần nào đứng ngay sau Perception?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Motor",
+            "vi": "Động cơ",
+            "original": "Motor",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Control",
+            "vi": "Điều khiển",
+            "original": "Control",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Perception → AI → Decision."
+      },
+      {
+        "id": "foundations-16",
+        "number": 16,
+        "en": "What comes after AI in the AI robot flow?",
+        "vi": "Trong luồng AI Robot, thành phần nào đứng sau AI?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Decision",
+            "vi": "Quyết định",
+            "original": "Decision",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Camera",
+            "vi": "Camera",
+            "original": "Camera",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Motor",
+            "vi": "Động cơ",
+            "original": "Motor",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "AI → Decision.\nDecision = quyết định/ra quyết định."
+      },
+      {
+        "id": "foundations-17",
+        "number": 17,
+        "en": "What comes immediately before the Motor?",
+        "vi": "Thành phần nào đứng ngay trước Motor?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Control",
+            "vi": "Điều khiển",
+            "original": "Control",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Camera",
+            "vi": "Camera",
+            "original": "Camera",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Phần cuối là:\nDecision → Control → Motor."
+      },
+      {
+        "id": "foundations-18",
+        "number": 18,
+        "en": "Which robot mainly uses fixed IF–THEN logic?",
+        "vi": "Loại robot nào chủ yếu sử dụng logic IF–THEN cố định?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI Robot",
+            "vi": "Robot AI",
+            "original": "AI Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Traditional Robot",
+            "vi": "Robot truyền thống",
+            "original": "Traditional Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Vision Robot",
+            "vi": "Robot thị giác",
+            "original": "Vision Robot",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Autonomous AI Robot",
+            "vi": "Robot AI tự hành",
+            "original": "Autonomous AI Robot",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Traditional Robot hoạt động theo Rule [IF–THEN logic], tức các luật được xác định trước."
+      },
+      {
+        "id": "foundations-19",
+        "number": 19,
+        "en": "Which robot includes a Perception stage?",
+        "vi": "Loại robot nào có giai đoạn Perception?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Traditional Robot",
+            "vi": "Robot truyền thống",
+            "original": "Traditional Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "AI Robot",
+            "vi": "Robot AI",
+            "original": "AI Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Both robots",
+            "vi": "Cả hai robot",
+            "original": "Both robots",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Neither robot",
+            "vi": "Không robot nào",
+            "original": "Neither robot",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Trong sơ đồ bài học, AI Robot có Perception; Traditional Robot chỉ có Sensor → Rule → Motor."
+      },
+      {
+        "id": "foundations-20",
+        "number": 20,
+        "en": "Which robot is described as more flexible and intelligent?",
+        "vi": "Loại robot nào được mô tả là linh hoạt và thông minh hơn?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Traditional Robot",
+            "vi": "Robot truyền thống",
+            "original": "Traditional Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "AI-enabled Robot",
+            "vi": "Robot tích hợp AI",
+            "original": "AI-enabled Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Manual Robot",
+            "vi": "Robot thủ công",
+            "original": "Manual Robot",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Mechanical Robot",
+            "vi": "Robot cơ khí",
+            "original": "Mechanical Robot",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "AI-enabled Robot có khả năng xử lý dữ liệu phức tạp và ra quyết định trong môi trường thực tế.     AI Robotics #1\nSystem Flow"
+      },
+      {
+        "id": "foundations-21",
+        "number": 21,
+        "en": "What is the correct system architecture flow in the team exercise?",
+        "vi": "Luồng kiến trúc hệ thống đúng trong bài tập nhóm là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Input → Processing → Decision → Output",
+            "vi": "Đầu vào → Xử lý → Quyết định → Đầu ra",
+            "original": "Input → Processing → Decision → Output",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Output → Processing → Input → Decision",
+            "vi": "Đầu ra → Xử lý → Đầu vào → Quyết định",
+            "original": "Output → Processing → Input → Decision",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Decision → Input → Output",
+            "vi": "Quyết định → Đầu vào → Đầu ra",
+            "original": "Decision → Input → Output",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Processing → Output → Input",
+            "vi": "Xử lý → Đầu ra → Đầu vào",
+            "original": "Processing → Output → Input",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Bài yêu cầu:\nInput → Processing → Decision → Output.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-22",
+        "number": 22,
+        "en": "Sensors are mainly associated with which stage?",
+        "vi": "Sensor chủ yếu tương ứng với giai đoạn nào?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Input",
+            "vi": "Đầu vào",
+            "original": "Input",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Output",
+            "vi": "Đầu ra",
+            "original": "Output",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Physical action",
+            "vi": "Hành động vật lý",
+            "original": "Physical action",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Motor control",
+            "vi": "Điều khiển động cơ",
+            "original": "Motor control",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Sensor thu nhận dữ liệu → Input (đầu vào)."
+      },
+      {
+        "id": "foundations-23",
+        "number": 23,
+        "en": "Motors are mainly associated with which stage?",
+        "vi": "Motor chủ yếu tương ứng với giai đoạn nào?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Input",
+            "vi": "Đầu vào",
+            "original": "Input",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Output",
+            "vi": "Đầu ra",
+            "original": "Output",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Processing",
+            "vi": "Xử lý",
+            "original": "Processing",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Perception",
+            "vi": "Nhận thức",
+            "original": "Perception",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Motor tạo chuyển động/hành động → Output (đầu ra)."
+      },
+      {
+        "id": "foundations-24",
+        "number": 24,
+        "en": "What does “Decision” mean in a robot system?",
+        "vi": "“Decision” có nghĩa là gì trong hệ thống robot?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Collecting data",
+            "vi": "Thu thập dữ liệu",
+            "original": "Collecting data — Thu thập dữ liệu"
+          },
+          {
+            "id": "B",
+            "en": "Choosing an action",
+            "vi": "Lựa chọn hành động",
+            "original": "Choosing an action — Lựa chọn hành động"
+          },
+          {
+            "id": "C",
+            "en": "Building the robot",
+            "vi": "Chế tạo robot",
+            "original": "Building the robot — Chế tạo robot"
+          },
+          {
+            "id": "D",
+            "en": "Charging the battery",
+            "vi": "Sạc pin",
+            "original": "Charging the battery — Sạc pin"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Decision = ra quyết định, tức lựa chọn robot nên làm gì tiếp theo."
+      },
+      {
+        "id": "foundations-25",
+        "number": 25,
+        "en": "What is the deliverable of the team exercise?",
+        "vi": "Sản phẩm đầu ra của bài tập nhóm là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "A website",
+            "vi": "Một website",
+            "original": "A website",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "A mobile application",
+            "vi": "Một ứng dụng di động",
+            "original": "A mobile application",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "A one-page Robot System Architecture",
+            "vi": "Một trang Kiến trúc Hệ thống Robot",
+            "original": "A one-page Robot System Architecture",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "A database",
+            "vi": "Một cơ sở dữ liệu",
+            "original": "A database",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Tài liệu ghi Robot System Architecture – 1 page.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-26",
+        "number": 26,
+        "en": "What first observes the physical world in the cyber-physical system diagram?",
+        "vi": "Trong sơ đồ Cyber-Physical System, thành phần nào đầu tiên quan sát thế giới vật lý?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Sensors/Camera",
+            "vi": "Cảm biến/Camera",
+            "original": "Sensors/Camera",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Actuators",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuators",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Decision",
+            "vi": "Quyết định",
+            "original": "Decision",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Physical World → Sensors/Camera → Data → AI/Algorithms..."
+      },
+      {
+        "id": "foundations-27",
+        "number": 27,
+        "en": "What do Sensors/Camera provide to AI/Algorithms?",
+        "vi": "Sensors/Camera cung cấp gì cho AI/Algorithms?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Physical action",
+            "vi": "Hành động vật lý",
+            "original": "Physical action",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Data",
+            "vi": "Dữ liệu",
+            "original": "Data",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Motors",
+            "vi": "Động cơ",
+            "original": "Motors",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Rules",
+            "vi": "Các quy tắc",
+            "original": "Rules",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Sensor/Camera thu thập Data (dữ liệu) rồi đưa dữ liệu vào AI/Algorithms."
+      },
+      {
+        "id": "foundations-28",
+        "number": 28,
+        "en": "What comes after AI/Algorithms?",
+        "vi": "Thành phần nào đứng sau AI/Algorithms?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Decision",
+            "vi": "Quyết định",
+            "original": "Decision",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Camera",
+            "vi": "Camera",
+            "original": "Camera",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Physical World",
+            "vi": "Thế giới vật lý",
+            "original": "Physical World",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "AI/Algorithms → Decision → Control."
+      },
+      {
+        "id": "foundations-29",
+        "number": 29,
+        "en": "Which component receives the control signal?",
+        "vi": "Thành phần nào nhận tín hiệu điều khiển?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensors",
+            "vi": "Cảm biến",
+            "original": "Sensors",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Actuators",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuators",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Camera",
+            "vi": "Camera",
+            "original": "Camera",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "AI",
+            "vi": "Trí tuệ nhân tạo",
+            "original": "AI",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Control → Actuators → Physical Action."
+      },
+      {
+        "id": "foundations-30",
+        "number": 30,
+        "en": "What is produced after the actuators operate?",
+        "vi": "Điều gì được tạo ra sau khi actuator hoạt động?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor data",
+            "vi": "Dữ liệu cảm biến",
+            "original": "Sensor data",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Physical action",
+            "vi": "Hành động vật lý",
+            "original": "Physical action",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "AI model",
+            "vi": "Mô hình AI",
+            "original": "AI model",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Perception",
+            "vi": "Nhận thức",
+            "original": "Perception",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Actuator thực thi lệnh và tạo ra Physical Action – hành động vật lý."
+      },
+      {
+        "id": "foundations-31",
+        "number": 31,
+        "en": "Which is an industry case study mentioned in the lecture?",
+        "vi": "Đâu là một trường hợp ứng dụng công nghiệp được đề cập trong bài?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Warehouse robot",
+            "vi": "Robot kho hàng",
+            "original": "Warehouse robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Web server",
+            "vi": "Máy chủ web",
+            "original": "Web server",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Email client",
+            "vi": "Ứng dụng email",
+            "original": "Email client",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Search engine",
+            "vi": "Công cụ tìm kiếm",
+            "original": "Search engine",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Warehouse robot – robot kho hàng là một trong các case study.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-32",
+        "number": 32,
+        "en": "Which robot is related to farming?",
+        "vi": "Robot nào liên quan đến lĩnh vực nông nghiệp?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Agricultural robot",
+            "vi": "Robot nông nghiệp",
+            "original": "Agricultural robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Delivery robot",
+            "vi": "Robot giao hàng",
+            "original": "Delivery robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Database robot",
+            "vi": "Robot cơ sở dữ liệu",
+            "original": "Database robot",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Web robot",
+            "vi": "Robot web",
+            "original": "Web robot",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Agricultural = thuộc nông nghiệp."
+      },
+      {
+        "id": "foundations-33",
+        "number": 33,
+        "en": "Which example is related to autonomous transportation?",
+        "vi": "Ví dụ nào liên quan đến phương tiện giao thông tự hành?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Autonomous vehicle",
+            "vi": "Phương tiện tự hành",
+            "original": "Autonomous vehicle",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Website",
+            "vi": "Website",
+            "original": "Website",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Database",
+            "vi": "Cơ sở dữ liệu",
+            "original": "Database",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Cloud server",
+            "vi": "Máy chủ đám mây",
+            "original": "Cloud server",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Autonomous vehicle = phương tiện tự hành."
+      },
+      {
+        "id": "foundations-34",
+        "number": 34,
+        "en": "Which robot can autonomously deliver items?",
+        "vi": "Robot nào có thể tự động giao hàng?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Agricultural robot",
+            "vi": "Robot nông nghiệp",
+            "original": "Agricultural robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Autonomous delivery robot",
+            "vi": "Robot giao hàng tự hành",
+            "original": "Autonomous delivery robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Industrial printer",
+            "vi": "Máy in công nghiệp",
+            "original": "Industrial printer",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Service database",
+            "vi": "Cơ sở dữ liệu dịch vụ",
+            "original": "Service database",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Autonomous delivery robot = robot giao hàng tự hành."
+      },
+      {
+        "id": "foundations-35",
+        "number": 35,
+        "en": "Which is NOT mentioned as an industry case study?",
+        "vi": "Đâu KHÔNG phải là case study được đề cập?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Warehouse robot",
+            "vi": "Robot kho hàng",
+            "original": "Warehouse robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Agricultural robot",
+            "vi": "Robot nông nghiệp",
+            "original": "Agricultural robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Autonomous vehicle",
+            "vi": "Phương tiện tự hành",
+            "original": "Autonomous vehicle",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Social media robot",
+            "vi": "Robot mạng xã hội",
+            "original": "Social media robot",
+            "translated": true
+          }
+        ],
+        "correct": "D",
+        "explanation": "Tài liệu không đề cập Social media robot.     AI Robotics #1\nCourse Content"
+      },
+      {
+        "id": "foundations-36",
+        "number": 36,
+        "en": "What is the topic of Session 1?",
+        "vi": "Chủ đề của buổi 1 là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Intelligent Robotics System",
+            "vi": "Hệ thống robot thông minh",
+            "original": "Intelligent Robotics System",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Computer Vision",
+            "vi": "Thị giác máy tính",
+            "original": "Computer Vision",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Autonomous Navigation",
+            "vi": "Điều hướng tự hành",
+            "original": "Autonomous Navigation",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Engineering Challenge",
+            "vi": "Thử thách kỹ thuật",
+            "original": "Engineering Challenge",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Session 1 → Intelligent Robotics System.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-37",
+        "number": 37,
+        "en": "What is the topic of Session 3?",
+        "vi": "Chủ đề của buổi 3 là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor & Motion Control",
+            "vi": "Cảm biến và điều khiển chuyển động",
+            "original": "Sensor & Motion Control",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "AI & Computer Vision for Robotics",
+            "vi": "AI & Thị giác máy tính cho Robotics",
+            "original": "AI & Computer Vision for Robotics",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Engineering Challenge",
+            "vi": "Thử thách kỹ thuật",
+            "original": "Engineering Challenge",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Autonomous Navigation",
+            "vi": "Điều hướng tự hành",
+            "original": "Autonomous Navigation",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Session 3 → AI & Computer Vision for Robotics."
+      },
+      {
+        "id": "foundations-38",
+        "number": 38,
+        "en": "Which session focuses on Autonomous Navigation?",
+        "vi": "Buổi nào tập trung vào Autonomous Navigation – điều hướng tự hành?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Session 2",
+            "vi": "Buổi 2",
+            "original": "Session 2",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Session 3",
+            "vi": "Buổi 3",
+            "original": "Session 3",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Session 5",
+            "vi": "Buổi 5",
+            "original": "Session 5",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Session 8",
+            "vi": "Buổi 8",
+            "original": "Session 8",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Session 5 → Autonomous Navigation → Obstacle Avoidance Robot."
+      },
+      {
+        "id": "foundations-39",
+        "number": 39,
+        "en": "What is the output of Session 6?",
+        "vi": "Sản phẩm đầu ra của buổi 6 là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Mobile Robot",
+            "vi": "Robot di động",
+            "original": "Mobile Robot",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Vision Robot",
+            "vi": "Robot thị giác",
+            "original": "Vision Robot",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "AI Pipeline",
+            "vi": "Quy trình xử lý AI",
+            "original": "AI Pipeline",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Final Prototype",
+            "vi": "Nguyên mẫu cuối cùng",
+            "original": "Final Prototype",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Session 6: Computer Vision → Vision Robot."
+      },
+      {
+        "id": "foundations-40",
+        "number": 40,
+        "en": "What is the final output of Session 8?",
+        "vi": "Sản phẩm cuối cùng của buổi 8 là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI Pipeline",
+            "vi": "Quy trình xử lý AI",
+            "original": "AI Pipeline",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Control Logic",
+            "vi": "Logic điều khiển",
+            "original": "Control Logic",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Final Prototype",
+            "vi": "Nguyên mẫu cuối cùng",
+            "original": "Final Prototype",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Vision Robot",
+            "vi": "Robot thị giác",
+            "original": "Vision Robot",
+            "translated": true
+          }
+        ],
+        "correct": "C",
+        "explanation": "Session 8: Engineering Challenge → Final Prototype.     AI Robotics #1\nCourse Objectives & Review"
+      },
+      {
+        "id": "foundations-41",
+        "number": 41,
+        "en": "One course objective is to explain the basic architecture of what?",
+        "vi": "Một mục tiêu khóa học là giải thích kiến trúc cơ bản của hệ thống nào?",
+        "options": [
+          {
+            "id": "A",
+            "en": "An intelligent robot system",
+            "vi": "Một hệ thống robot thông minh",
+            "original": "An intelligent robot system",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "A social network",
+            "vi": "Một mạng xã hội",
+            "original": "A social network",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "A database server",
+            "vi": "Một máy chủ cơ sở dữ liệu",
+            "original": "A database server",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "A website",
+            "vi": "Một website",
+            "original": "A website",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Mục tiêu đầu tiên là hiểu basic architecture of an intelligent robot system.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-42",
+        "number": 42,
+        "en": "Students use sensor data to help the robot recognize what?",
+        "vi": "Sinh viên sử dụng dữ liệu cảm biến để giúp robot nhận biết điều gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "The environmental state",
+            "vi": "Trạng thái môi trường",
+            "original": "The environmental state",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Website traffic",
+            "vi": "Lưu lượng truy cập website",
+            "original": "Website traffic",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Email content",
+            "vi": "Nội dung email",
+            "original": "Email content",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Database tables",
+            "vi": "Các bảng cơ sở dữ liệu",
+            "original": "Database tables",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Sensor data được dùng để robot nhận biết trạng thái môi trường."
+      },
+      {
+        "id": "foundations-43",
+        "number": 43,
+        "en": "Computer Vision/AI can be used to identify what?",
+        "vi": "Computer Vision/AI có thể được sử dụng để nhận diện gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Objects or states",
+            "vi": "Đối tượng hoặc trạng thái",
+            "original": "Objects or states",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Only passwords",
+            "vi": "Chỉ mật khẩu",
+            "original": "Only passwords",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Only websites",
+            "vi": "Chỉ website",
+            "original": "Only websites",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Only databases",
+            "vi": "Chỉ cơ sở dữ liệu",
+            "original": "Only databases",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Mục tiêu khóa học đề cập nhận diện đối tượng hoặc trạng thái bằng Computer Vision/AI."
+      },
+      {
+        "id": "foundations-44",
+        "number": 44,
+        "en": "What should be combined to create an autonomous system?",
+        "vi": "Cần kết hợp những gì để tạo thành một hệ thống tự hành?",
+        "options": [
+          {
+            "id": "A",
+            "en": "AI, sensors, and control",
+            "vi": "AI, cảm biến và điều khiển",
+            "original": "AI, sensors, and control",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "HTML, CSS, and JavaScript",
+            "vi": "HTML, CSS và JavaScript",
+            "original": "HTML, CSS, and JavaScript",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Email, browser, and database",
+            "vi": "Email, trình duyệt và cơ sở dữ liệu",
+            "original": "Email, browser, and database",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "Keyboard, mouse, and monitor",
+            "vi": "Bàn phím, chuột và màn hình",
+            "original": "Keyboard, mouse, and monitor",
+            "translated": true
+          }
+        ],
+        "correct": "A",
+        "explanation": "Theo mục tiêu khóa học:\nAI + Sensor + Control → Autonomous System.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-45",
+        "number": 45,
+        "en": "What does “autonomous” mean in robotics?",
+        "vi": "“Autonomous” trong robotics có nghĩa là gì?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Able to operate independently",
+            "vi": "Có khả năng hoạt động tự chủ",
+            "original": "Able to operate independently — Có khả năng hoạt động tự chủ"
+          },
+          {
+            "id": "B",
+            "en": "Always manually controlled",
+            "vi": "Luôn được điều khiển thủ công",
+            "original": "Always manually controlled — Luôn được điều khiển thủ công"
+          },
+          {
+            "id": "C",
+            "en": "Only connected to the Internet",
+            "vi": "Chỉ kết nối Internet",
+            "original": "Only connected to the Internet — Chỉ kết nối Internet"
+          },
+          {
+            "id": "D",
+            "en": "Unable to make decisions",
+            "vi": "Không thể ra quyết định",
+            "original": "Unable to make decisions — Không thể ra quyết định"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Trong ngữ cảnh bài, autonomous = tự hành/tự chủ."
+      },
+      {
+        "id": "foundations-46",
+        "number": 46,
+        "en": "Which component converts control commands into physical action?",
+        "vi": "Thành phần nào biến lệnh điều khiển thành hành động vật lý?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "Cảm biến",
+            "original": "Sensor",
+            "translated": true
+          },
+          {
+            "id": "B",
+            "en": "Actuator",
+            "vi": "Cơ cấu chấp hành",
+            "original": "Actuator",
+            "translated": true
+          },
+          {
+            "id": "C",
+            "en": "Camera",
+            "vi": "Camera",
+            "original": "Camera",
+            "translated": true
+          },
+          {
+            "id": "D",
+            "en": "AI model",
+            "vi": "Mô hình AI",
+            "original": "AI model",
+            "translated": true
+          }
+        ],
+        "correct": "B",
+        "explanation": "Actuator → Physical Action."
+      },
+      {
+        "id": "foundations-47",
+        "number": 47,
+        "en": "Which pair is correctly matched?",
+        "vi": "Cặp nào sau đây được ghép đúng?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sensor",
+            "vi": "collects information",
+            "original": "Sensor — collects information\nCảm biến — thu thập thông tin"
+          },
+          {
+            "id": "B",
+            "en": "Actuator",
+            "vi": "collects images",
+            "original": "Actuator — collects images\nCơ cấu chấp hành — thu thập hình ảnh"
+          },
+          {
+            "id": "C",
+            "en": "Motor",
+            "vi": "makes AI decisions",
+            "original": "Motor — makes AI decisions\nĐộng cơ — đưa ra quyết định AI"
+          },
+          {
+            "id": "D",
+            "en": "Camera",
+            "vi": "performs physical movement",
+            "original": "Camera — performs physical movement\nCamera — tạo chuyển động vật lý"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Sensor có nhiệm vụ thu thập thông tin/dữ liệu."
+      },
+      {
+        "id": "foundations-48",
+        "number": 48,
+        "en": "Which statement about traditional robots is correct?",
+        "vi": "Phát biểu nào về robot truyền thống là đúng?",
+        "options": [
+          {
+            "id": "A",
+            "en": "They rely on fixed rules.",
+            "vi": "Chúng dựa vào các luật cố định.",
+            "original": "They rely on fixed rules.\nChúng dựa vào các luật cố định."
+          },
+          {
+            "id": "B",
+            "en": "They always use deep learning.",
+            "vi": "Chúng luôn sử dụng Deep Learning.",
+            "original": "They always use deep learning.\nChúng luôn sử dụng Deep Learning."
+          },
+          {
+            "id": "C",
+            "en": "They always use computer vision.",
+            "vi": "Chúng luôn sử dụng Computer Vision.",
+            "original": "They always use computer vision.\nChúng luôn sử dụng Computer Vision."
+          },
+          {
+            "id": "D",
+            "en": "They do not use sensors.",
+            "vi": "Chúng không sử dụng cảm biến.",
+            "original": "They do not use sensors.\nChúng không sử dụng cảm biến."
+          }
+        ],
+        "correct": "A",
+        "explanation": "Traditional Robot dựa vào fixed IF–THEN rules.     AI Robotics #1"
+      },
+      {
+        "id": "foundations-49",
+        "number": 49,
+        "en": "Which statement about AI-enabled robots is correct?",
+        "vi": "Phát biểu nào về robot tích hợp AI là đúng?",
+        "options": [
+          {
+            "id": "A",
+            "en": "They cannot process sensor data.",
+            "vi": "Chúng không thể xử lý dữ liệu cảm biến.",
+            "original": "They cannot process sensor data.\nChúng không thể xử lý dữ liệu cảm biến."
+          },
+          {
+            "id": "B",
+            "en": "They only follow fixed rules.",
+            "vi": "Chúng chỉ tuân theo luật cố định.",
+            "original": "They only follow fixed rules.\nChúng chỉ tuân theo luật cố định."
+          },
+          {
+            "id": "C",
+            "en": "They can use perception and AI for decision-making.",
+            "vi": "Chúng có thể sử dụng perception và AI để ra quyết định.",
+            "original": "They can use perception and AI for decision-making.\nChúng có thể sử dụng perception và AI để ra quyết định."
+          },
+          {
+            "id": "D",
+            "en": "They do not need actuators.",
+            "vi": "Chúng không cần cơ cấu chấp hành.",
+            "original": "They do not need actuators.\nChúng không cần cơ cấu chấp hành."
+          }
+        ],
+        "correct": "C",
+        "explanation": "AI Robot có:\nPerception → AI → Decision\nĐây là khác biệt quan trọng so với Traditional Robot."
+      },
+      {
+        "id": "foundations-50",
+        "number": 50,
+        "en": "Which sequence best summarizes the operation of an intelligent robot?",
+        "vi": "Chuỗi nào mô tả tốt nhất hoạt động của một robot thông minh?",
+        "options": [
+          {
+            "id": "A",
+            "en": "Sense → Process → Decide → Act",
+            "vi": "Cảm nhận → Xử lý → Quyết định → Hành động",
+            "original": "Sense → Process → Decide → Act\nCảm nhận → Xử lý → Quyết định → Hành động"
+          },
+          {
+            "id": "B",
+            "en": "Act → Sense → Stop",
+            "vi": "Hành động → Cảm nhận → Dừng",
+            "original": "Act → Sense → Stop\nHành động → Cảm nhận → Dừng"
+          },
+          {
+            "id": "C",
+            "en": "Motor → Camera → Battery",
+            "vi": "Động cơ → Camera → Pin",
+            "original": "Motor → Camera → Battery\nĐộng cơ → Camera → Pin"
+          },
+          {
+            "id": "D",
+            "en": "Rule → Website → Motor",
+            "vi": "Luật → Website → Động cơ",
+            "original": "Rule → Website → Motor\nLuật → Website → Động cơ"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Đây là ý cốt lõi của kiến trúc robot trong tài liệu: robot cảm nhận môi trường → xử lý thông tin → ra quyết định → thực hiện hành động.     AI Robotics #1"
+      }
+    ]
+  },
+  {
     "id": "perception",
     "title": "Robot Perception & Control",
     "questions": [
