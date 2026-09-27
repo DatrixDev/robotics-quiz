@@ -1,0 +1,3589 @@
+Câu 1
+What is a modern robot mainly considered to be?
+Robot hiện đại chủ yếu được xem là gì?
+A. Only a mechanical system — Chỉ là hệ thống cơ khí
+B. A combination of mechanical, electronics, control, software, and AI — Sự kết hợp của cơ khí, điện tử, điều khiển, phần mềm và AI
+C. Only a computer system — Chỉ là hệ thống máy tính
+D. Only an electronic device — Chỉ là thiết bị điện tử  
+Answer: B
+Giải thích: Theo bài học, robot hiện đại là sự kết hợp:
+Mechanical + Electronics + Control + Software + AI.     AI Robotics #1
+Câu 2
+How many main components are included in the robot architecture?
+Kiến trúc robot gồm bao nhiêu thành phần chính?
+A. 3
+B. 4
+C. 5
+D. 6  
+Answer: C
+Giải thích: Có 5 thành phần: Mechanical system, Sensors, Actuators, Computing/Controller và Software/AI.     AI Robotics #1
+Câu 3
+Which component detects information from the environment?
+Thành phần nào thu nhận thông tin từ môi trường?
+A. Sensor — Cảm biến
+B. Actuator — Cơ cấu chấp hành
+C. Motor — Động cơ
+D. Controller — Bộ điều khiển  
+Answer: A
+Giải thích: Sensor thu nhận dữ liệu từ môi trường để robot biết trạng thái xung quanh.
+Câu 4
+Which component performs physical actions?
+Thành phần nào thực hiện các hành động vật lý?
+A. Sensor — Cảm biến
+B. Actuator — Cơ cấu chấp hành
+C. Software — Phần mềm
+D. AI — Trí tuệ nhân tạo  
+Answer: B
+Giải thích: Actuator nhận lệnh điều khiển và tạo ra hành động vật lý.
+Câu 5
+Which component is responsible for computation and control?
+Thành phần nào chịu trách nhiệm tính toán và điều khiển?
+A. Mechanical system
+B. Computing/Controller
+C. Sensor
+D. Wheel  
+Answer: B
+Giải thích: Computing/Controller = bộ tính toán/bộ điều khiển, là một trong 5 thành phần của kiến trúc robot.     AI Robotics #1
+Câu 6
+Which of the following is NOT one of the five main robot architecture components?
+Thành phần nào sau đây KHÔNG thuộc 5 thành phần chính của kiến trúc robot?
+A. Sensors
+B. Actuators
+C. Database
+D. Software/AI  
+Answer: C
+Giải thích: Database không nằm trong danh sách 5 thành phần của bài.
+Câu 7
+Which component represents the physical structure of a robot?
+Thành phần nào đại diện cho cấu trúc vật lý của robot?
+A. Mechanical system
+B. AI
+C. Software
+D. Sensor  
+Answer: A
+Giải thích: Mechanical system = hệ thống cơ khí, tức phần cấu trúc vật lý của robot.
+Câu 8
+Which component gives a robot intelligent processing capabilities?
+Thành phần nào cung cấp cho robot khả năng xử lý thông minh?
+A. Mechanical system
+B. Software/AI
+C. Wheels
+D. Battery  
+Answer: B
+Giải thích: Software/AI đảm nhiệm phần phần mềm và trí tuệ của hệ thống.
+Câu 9
+Which of the following is mentioned as a type of modern robot?
+Loại nào sau đây được đề cập là một loại robot hiện đại?
+A. Mobile Robot
+B. Email Robot
+C. Database Robot
+D. Browser Robot  
+Answer: A
+Giải thích: Bài học đề cập Industrial Robot, Mobile Robot, AMR/AGV, Service Robot và AI Robot.     AI Robotics #1
+Câu 10
+Which of the following is NOT mentioned as a type of modern robot?
+Loại nào sau đây KHÔNG được đề cập là một loại robot hiện đại?
+A. Industrial Robot
+B. Mobile Robot
+C. Service Robot
+D. Database Robot  
+Answer: D
+Giải thích: Database Robot không xuất hiện trong danh sách của bài.
+Traditional Robot vs. AI Robot
+Câu 11
+What is the correct flow of a traditional robot?
+Luồng hoạt động đúng của robot truyền thống là gì?
+A. Sensor → AI → Motor
+B. Sensor → Rule → Motor
+C. AI → Decision → Motor
+D. Camera → AI → Motor  
+Answer: B
+Giải thích: Đây là công thức rất quan trọng:
+Traditional Robot: Sensor → Rule → Motor.     AI Robotics #1
+Câu 12
+What comes after the sensor in a traditional robot?
+Thành phần nào đứng sau Sensor trong robot truyền thống?
+A. AI
+B. Rule
+C. Perception
+D. Decision  
+Answer: B
+Giải thích: Sensor → Rule → Motor, nên sau Sensor là Rule (luật).
+Câu 13
+What is the correct flow of an AI robot?
+Luồng hoạt động đúng của AI Robot là gì?
+A. Sensor → Rule → Motor
+B. Sensor/Camera → Perception → AI → Decision → Control → Motor
+C. Motor → AI → Sensor
+D. AI → Camera → Control  
+Answer: B
+Giải thích: Đây là chuỗi cần học thuộc:
+Sensor/Camera → Perception → AI → Decision → Control → Motor.     AI Robotics #1
+Câu 14
+What comes immediately after Sensor/Camera in an AI robot?
+Thành phần nào xuất hiện ngay sau Sensor/Camera trong AI Robot?
+A. Motor
+B. Decision
+C. Perception
+D. Control  
+Answer: C
+Giải thích: Sensor/Camera → Perception → AI.
+Perception = nhận thức/xử lý dữ liệu cảm nhận.
+Câu 15
+What comes immediately after Perception?
+Thành phần nào đứng ngay sau Perception?
+A. AI
+B. Motor
+C. Sensor
+D. Control  
+Answer: A
+Giải thích: Perception → AI → Decision.
+Câu 16
+What comes after AI in the AI robot flow?
+Trong luồng AI Robot, thành phần nào đứng sau AI?
+A. Sensor
+B. Decision
+C. Camera
+D. Motor  
+Answer: B
+Giải thích: AI → Decision.
+Decision = quyết định/ra quyết định.
+Câu 17
+What comes immediately before the Motor?
+Thành phần nào đứng ngay trước Motor?
+A. Sensor
+B. AI
+C. Control
+D. Camera  
+Answer: C
+Giải thích: Phần cuối là:
+Decision → Control → Motor.
+Câu 18
+Which robot mainly uses fixed IF–THEN logic?
+Loại robot nào chủ yếu sử dụng logic IF–THEN cố định?
+A. AI Robot
+B. Traditional Robot
+C. Vision Robot
+D. Autonomous AI Robot  
+Answer: B
+Giải thích: Traditional Robot hoạt động theo Rule [IF–THEN logic], tức các luật được xác định trước.
+Câu 19
+Which robot includes a Perception stage?
+Loại robot nào có giai đoạn Perception?
+A. Traditional Robot
+B. AI Robot
+C. Both robots
+D. Neither robot  
+Answer: B
+Giải thích: Trong sơ đồ bài học, AI Robot có Perception; Traditional Robot chỉ có Sensor → Rule → Motor.
+Câu 20
+Which robot is described as more flexible and intelligent?
+Loại robot nào được mô tả là linh hoạt và thông minh hơn?
+A. Traditional Robot
+B. AI-enabled Robot
+C. Manual Robot
+D. Mechanical Robot  
+Answer: B
+Giải thích: AI-enabled Robot có khả năng xử lý dữ liệu phức tạp và ra quyết định trong môi trường thực tế.     AI Robotics #1
+System Flow
+Câu 21
+What is the correct system architecture flow in the team exercise?
+Luồng kiến trúc hệ thống đúng trong bài tập nhóm là gì?
+A. Input → Processing → Decision → Output
+B. Output → Processing → Input → Decision
+C. Decision → Input → Output
+D. Processing → Output → Input  
+Answer: A
+Giải thích: Bài yêu cầu:
+Input → Processing → Decision → Output.     AI Robotics #1
+Câu 22
+Sensors are mainly associated with which stage?
+Sensor chủ yếu tương ứng với giai đoạn nào?
+A. Input
+B. Output
+C. Physical action
+D. Motor control  
+Answer: A
+Giải thích: Sensor thu nhận dữ liệu → Input (đầu vào).
+Câu 23
+Motors are mainly associated with which stage?
+Motor chủ yếu tương ứng với giai đoạn nào?
+A. Input
+B. Output
+C. Processing
+D. Perception  
+Answer: B
+Giải thích: Motor tạo chuyển động/hành động → Output (đầu ra).
+Câu 24
+What does “Decision” mean in a robot system?
+“Decision” có nghĩa là gì trong hệ thống robot?
+A. Collecting data — Thu thập dữ liệu
+B. Choosing an action — Lựa chọn hành động
+C. Building the robot — Chế tạo robot
+D. Charging the battery — Sạc pin  
+Answer: B
+Giải thích: Decision = ra quyết định, tức lựa chọn robot nên làm gì tiếp theo.
+Câu 25
+What is the deliverable of the team exercise?
+Sản phẩm đầu ra của bài tập nhóm là gì?
+A. A website
+B. A mobile application
+C. A one-page Robot System Architecture
+D. A database  
+Answer: C
+Giải thích: Tài liệu ghi Robot System Architecture – 1 page.     AI Robotics #1
+Câu 26
+What first observes the physical world in the cyber-physical system diagram?
+Trong sơ đồ Cyber-Physical System, thành phần nào đầu tiên quan sát thế giới vật lý?
+A. AI
+B. Sensors/Camera
+C. Actuators
+D. Decision  
+Answer: B
+Giải thích: Physical World → Sensors/Camera → Data → AI/Algorithms...
+Câu 27
+What do Sensors/Camera provide to AI/Algorithms?
+Sensors/Camera cung cấp gì cho AI/Algorithms?
+A. Physical action
+B. Data
+C. Motors
+D. Rules  
+Answer: B
+Giải thích: Sensor/Camera thu thập Data (dữ liệu) rồi đưa dữ liệu vào AI/Algorithms.
+Câu 28
+What comes after AI/Algorithms?
+Thành phần nào đứng sau AI/Algorithms?
+A. Sensor
+B. Decision
+C. Camera
+D. Physical World  
+Answer: B
+Giải thích: AI/Algorithms → Decision → Control.
+Câu 29
+Which component receives the control signal?
+Thành phần nào nhận tín hiệu điều khiển?
+A. Sensors
+B. Actuators
+C. Camera
+D. AI  
+Answer: B
+Giải thích: Control → Actuators → Physical Action.
+Câu 30
+What is produced after the actuators operate?
+Điều gì được tạo ra sau khi actuator hoạt động?
+A. Sensor data
+B. Physical action
+C. AI model
+D. Perception  
+Answer: B
+Giải thích: Actuator thực thi lệnh và tạo ra Physical Action – hành động vật lý.
+Applications
+Câu 31
+Which is an industry case study mentioned in the lecture?
+Đâu là một trường hợp ứng dụng công nghiệp được đề cập trong bài?
+A. Warehouse robot
+B. Web server
+C. Email client
+D. Search engine  
+Answer: A
+Giải thích: Warehouse robot – robot kho hàng là một trong các case study.     AI Robotics #1
+Câu 32
+Which robot is related to farming?
+Robot nào liên quan đến lĩnh vực nông nghiệp?
+A. Agricultural robot
+B. Delivery robot
+C. Database robot
+D. Web robot  
+Answer: A
+Giải thích: Agricultural = thuộc nông nghiệp.
+Câu 33
+Which example is related to autonomous transportation?
+Ví dụ nào liên quan đến phương tiện giao thông tự hành?
+A. Autonomous vehicle
+B. Website
+C. Database
+D. Cloud server  
+Answer: A
+Giải thích: Autonomous vehicle = phương tiện tự hành.
+Câu 34
+Which robot can autonomously deliver items?
+Robot nào có thể tự động giao hàng?
+A. Agricultural robot
+B. Autonomous delivery robot
+C. Industrial printer
+D. Service database  
+Answer: B
+Giải thích: Autonomous delivery robot = robot giao hàng tự hành.
+Câu 35
+Which is NOT mentioned as an industry case study?
+Đâu KHÔNG phải là case study được đề cập?
+A. Warehouse robot
+B. Agricultural robot
+C. Autonomous vehicle
+D. Social media robot  
+Answer: D
+Giải thích: Tài liệu không đề cập Social media robot.     AI Robotics #1
+Course Content
+Câu 36
+What is the topic of Session 1?
+Chủ đề của buổi 1 là gì?
+A. Intelligent Robotics System
+B. Computer Vision
+C. Autonomous Navigation
+D. Engineering Challenge  
+Answer: A
+Giải thích: Session 1 → Intelligent Robotics System.     AI Robotics #1
+Câu 37
+What is the topic of Session 3?
+Chủ đề của buổi 3 là gì?
+A. Sensor & Motion Control
+B. AI & Computer Vision for Robotics
+C. Engineering Challenge
+D. Autonomous Navigation  
+Answer: B
+Giải thích: Session 3 → AI & Computer Vision for Robotics.
+Câu 38
+Which session focuses on Autonomous Navigation?
+Buổi nào tập trung vào Autonomous Navigation – điều hướng tự hành?
+A. Session 2
+B. Session 3
+C. Session 5
+D. Session 8  
+Answer: C
+Giải thích: Session 5 → Autonomous Navigation → Obstacle Avoidance Robot.
+Câu 39
+What is the output of Session 6?
+Sản phẩm đầu ra của buổi 6 là gì?
+A. Mobile Robot
+B. Vision Robot
+C. AI Pipeline
+D. Final Prototype  
+Answer: B
+Giải thích: Session 6: Computer Vision → Vision Robot.
+Câu 40
+What is the final output of Session 8?
+Sản phẩm cuối cùng của buổi 8 là gì?
+A. AI Pipeline
+B. Control Logic
+C. Final Prototype
+D. Vision Robot  
+Answer: C
+Giải thích: Session 8: Engineering Challenge → Final Prototype.     AI Robotics #1
+Course Objectives & Review
+Câu 41
+One course objective is to explain the basic architecture of what?
+Một mục tiêu khóa học là giải thích kiến trúc cơ bản của hệ thống nào?
+A. An intelligent robot system
+B. A social network
+C. A database server
+D. A website  
+Answer: A
+Giải thích: Mục tiêu đầu tiên là hiểu basic architecture of an intelligent robot system.     AI Robotics #1
+Câu 42
+Students use sensor data to help the robot recognize what?
+Sinh viên sử dụng dữ liệu cảm biến để giúp robot nhận biết điều gì?
+A. The environmental state
+B. Website traffic
+C. Email content
+D. Database tables  
+Answer: A
+Giải thích: Sensor data được dùng để robot nhận biết trạng thái môi trường.
+Câu 43
+Computer Vision/AI can be used to identify what?
+Computer Vision/AI có thể được sử dụng để nhận diện gì?
+A. Objects or states
+B. Only passwords
+C. Only websites
+D. Only databases  
+Answer: A
+Giải thích: Mục tiêu khóa học đề cập nhận diện đối tượng hoặc trạng thái bằng Computer Vision/AI.
+Câu 44
+What should be combined to create an autonomous system?
+Cần kết hợp những gì để tạo thành một hệ thống tự hành?
+A. AI, sensors, and control
+B. HTML, CSS, and JavaScript
+C. Email, browser, and database
+D. Keyboard, mouse, and monitor  
+Answer: A
+Giải thích: Theo mục tiêu khóa học:
+AI + Sensor + Control → Autonomous System.     AI Robotics #1
+Câu 45
+What does “autonomous” mean in robotics?
+“Autonomous” trong robotics có nghĩa là gì?
+A. Able to operate independently — Có khả năng hoạt động tự chủ
+B. Always manually controlled — Luôn được điều khiển thủ công
+C. Only connected to the Internet — Chỉ kết nối Internet
+D. Unable to make decisions — Không thể ra quyết định  
+Answer: A
+Giải thích: Trong ngữ cảnh bài, autonomous = tự hành/tự chủ.
+Câu 46
+Which component converts control commands into physical action?
+Thành phần nào biến lệnh điều khiển thành hành động vật lý?
+A. Sensor
+B. Actuator
+C. Camera
+D. AI model  
+Answer: B
+Giải thích: Actuator → Physical Action.
+Câu 47
+Which pair is correctly matched?
+Cặp nào sau đây được ghép đúng?
+A. Sensor — collects information
+Cảm biến — thu thập thông tin
+B. Actuator — collects images
+Cơ cấu chấp hành — thu thập hình ảnh
+C. Motor — makes AI decisions
+Động cơ — đưa ra quyết định AI
+D. Camera — performs physical movement
+Camera — tạo chuyển động vật lý
+Answer: A
+Giải thích: Sensor có nhiệm vụ thu thập thông tin/dữ liệu.
+Câu 48
+Which statement about traditional robots is correct?
+Phát biểu nào về robot truyền thống là đúng?
+A. They rely on fixed rules.
+Chúng dựa vào các luật cố định.
+B. They always use deep learning.
+Chúng luôn sử dụng Deep Learning.
+C. They always use computer vision.
+Chúng luôn sử dụng Computer Vision.
+D. They do not use sensors.
+Chúng không sử dụng cảm biến.
+Answer: A
+Giải thích: Traditional Robot dựa vào fixed IF–THEN rules.     AI Robotics #1
+Câu 49
+Which statement about AI-enabled robots is correct?
+Phát biểu nào về robot tích hợp AI là đúng?
+A. They cannot process sensor data.
+Chúng không thể xử lý dữ liệu cảm biến.
+B. They only follow fixed rules.
+Chúng chỉ tuân theo luật cố định.
+C. They can use perception and AI for decision-making.
+Chúng có thể sử dụng perception và AI để ra quyết định.
+D. They do not need actuators.
+Chúng không cần cơ cấu chấp hành.
+Answer: C
+Giải thích: AI Robot có:
+Perception → AI → Decision
+Đây là khác biệt quan trọng so với Traditional Robot.
+Câu 50
+Which sequence best summarizes the operation of an intelligent robot?
+Chuỗi nào mô tả tốt nhất hoạt động của một robot thông minh?
+A. Sense → Process → Decide → Act
+Cảm nhận → Xử lý → Quyết định → Hành động
+B. Act → Sense → Stop
+Hành động → Cảm nhận → Dừng
+C. Motor → Camera → Battery
+Động cơ → Camera → Pin
+D. Rule → Website → Motor
+Luật → Website → Động cơ
+Answer: A
+Giải thích: Đây là ý cốt lõi của kiến trúc robot trong tài liệu: robot cảm nhận môi trường → xử lý thông tin → ra quyết định → thực hiện hành động.     AI Robotics #1
+📌 4 ý nên học thuộc trước khi thi
+1. Modern Robot
+Mechanical + Electronics + Control + Software + AI
+2. Five Robot Architecture Components
+Mechanical System → Sensors → Actuators → Computing/Controller → Software/AI
+3. Traditional Robot
+Sensor → Rule → Motor
+4. AI Robot
+Sensor/Camera → Perception → AI → Decision → Control → Motor
+Nếu đề thi bằng tiếng Anh thì đặc biệt nhớ các từ Sensor = cảm biến, Actuator = cơ cấu chấp hành, Perception = nhận thức, Decision = quyết định, Control = điều khiển, Autonomous = tự hành/tự chủ. AI & Robotics #2 — 50 Multiple Choice Questions
+Phần 1 — Perception & Control
+Câu 1
+What is robot perception and control?
+Robot perception and control là gì?
+A. A process used only to move motors
+B. A process where robots sense the environment, make decisions, and execute movements
+C. A process used only to collect images
+D. A process used to charge robots  
+Answer: B
+Giải thích: Theo tài liệu, robot sử dụng sensors để thu thập dữ liệu môi trường, dùng algorithms để đưa ra quyết định và sau đó thực hiện chuyển động vật lý.     AI Robotics #2
+Câu 2
+What do autonomous systems use to gather environmental data?
+Hệ thống tự hành sử dụng gì để thu thập dữ liệu môi trường?
+A. Motors
+B. Sensors
+C. Actuators
+D. Batteries  
+Answer: B
+Giải thích: Sensors = cảm biến, dùng để thu thập dữ liệu từ môi trường.
+Câu 3
+What is environmental data used for in robot perception and control?
+Dữ liệu môi trường được sử dụng để làm gì trong perception and control?
+A. To make decisions
+B. To charge the battery
+C. To build the robot
+D. To turn off the computer  
+Answer: A
+Giải thích: Robot thu thập dữ liệu → thuật toán xử lý → make decisions (ra quyết định).
+Câu 4
+What do robots apply to sensor data to make decisions?
+Robot áp dụng gì lên dữ liệu cảm biến để đưa ra quyết định?
+A. Algorithms
+B. Batteries
+C. Motors
+D. Wheels  
+Answer: A
+Giải thích: Slide định nghĩa:
+Sensors → environmental data → algorithms → decisions → physical movements.
+Câu 5
+What happens after the robot makes a decision?
+Điều gì xảy ra sau khi robot đưa ra quyết định?
+A. It executes physical movements
+B. It deletes sensor data
+C. It stops permanently
+D. It removes its sensors  
+Answer: A
+Giải thích: Sau khi quyết định, robot execute physical movements = thực hiện chuyển động vật lý.     AI Robotics #2
+Câu 6
+Which sequence best describes robot perception and control?
+Chuỗi nào mô tả đúng nhất quá trình perception and control?
+A. Sense → Process/Decide → Act
+B. Act → Sense → Stop
+C. Motor → Sensor → Battery
+D. Act → Delete → Stop  
+Answer: A
+Giải thích: Có thể nhớ đơn giản:
+Sense → Decide → Act
+Cảm nhận → Quyết định → Hành động
+Câu 7
+What does “perception” mainly involve in robotics?
+“Perception” trong robotics chủ yếu liên quan đến điều gì?
+A. Gathering and understanding sensory information
+B. Charging batteries
+C. Building wheels
+D. Writing reports  
+Answer: A
+Giải thích: Perception liên quan đến việc robot thu nhận và xử lý thông tin cảm biến để hiểu trạng thái của bản thân/môi trường.
+Câu 8
+What is the main purpose of control in robotics?
+Mục đích chính của control trong robotics là gì?
+A. To control physical actions
+B. To store videos
+C. To create websites
+D. To write documents  
+Answer: A
+Giải thích: Control biến thông tin/quyết định thành lệnh để robot thực hiện hành động.
+Câu 9
+Robot perception primarily depends on:
+Robot perception chủ yếu phụ thuộc vào:
+A. Sensors
+B. Batteries
+C. Wheels
+D. Displays  
+Answer: A
+Giải thích: Robot phải có sensor để cảm nhận trạng thái bên trong hoặc môi trường bên ngoài.
+Câu 10
+The practical goal of the lesson is to help students understand:
+Mục tiêu thực tế của buổi học là giúp sinh viên hiểu điều gì?
+A. How automated systems operate
+B. How websites operate
+C. How databases operate
+D. How email works  
+Answer: A
+Giải thích: Slide mục tiêu ghi rõ mục tiêu thực tế là giúp sinh viên hiểu cách vận hành hệ thống tự động.     AI Robotics #2
+Phần 2 — Proprioceptive Sensors
+Câu 11
+What do proprioceptive sensors measure?
+Proprioceptive sensors đo cái gì?
+A. Internal states
+B. External weather only
+C. Internet speed
+D. Map data only  
+Answer: A
+Giải thích: Proprioceptive Sensors = cảm biến đo trạng thái bên trong của robot.     AI Robotics #2
+Câu 12
+Which of the following can be measured by proprioceptive sensors?
+Đại lượng nào sau đây có thể được đo bởi proprioceptive sensors?
+A. Joint angles
+B. Road signs
+C. Buildings
+D. Traffic lights  
+Answer: A
+Giải thích: Tài liệu đưa ra 3 ví dụ:
+Joint angles – Motor speed – Torque.
+Câu 13
+Which sensor type can measure motor speed?
+Loại cảm biến nào có thể đo tốc độ động cơ?
+A. Proprioceptive sensor
+B. Exteroceptive sensor
+C. Camera only
+D. LiDAR only  
+Answer: A
+Giải thích: Motor speed là trạng thái bên trong robot → Proprioceptive Sensor.
+Câu 14
+Which sensor type can measure torque?
+Loại cảm biến nào có thể đo mô-men xoắn?
+A. Proprioceptive sensor
+B. Exteroceptive sensor
+C. Depth camera
+D. LiDAR  
+Answer: A
+Giải thích: Slide liệt kê torque là một trong những trạng thái được Proprioceptive Sensors đo.
+Câu 15
+What does “torque” mean?
+“Torque” có nghĩa là gì?
+A. Mô-men xoắn
+B. Khoảng cách
+C. Ánh sáng
+D. Hình ảnh  
+Answer: A
+Giải thích: Torque = mô-men xoắn, liên quan đến lực quay.
+Câu 16
+What does “joint angle” refer to?
+“Joint angle” đề cập đến điều gì?
+A. The angle of a robot joint
+B. Camera resolution
+C. Distance to an obstacle
+D. Battery voltage  
+Answer: A
+Giải thích: Joint = khớp, angle = góc → Joint angle = góc của khớp robot.
+Câu 17
+Which is NOT listed as an internal state measured by proprioceptive sensors?
+Đâu KHÔNG phải trạng thái bên trong được liệt kê cho proprioceptive sensors?
+A. Joint angle
+B. Motor speed
+C. Torque
+D. External obstacle distance  
+Answer: D
+Giải thích: Khoảng cách đến vật cản là thông tin về môi trường bên ngoài, không phải trạng thái nội bộ được liệt kê.
+Câu 18
+Proprioceptive sensors mainly provide information about:
+Proprioceptive sensors chủ yếu cung cấp thông tin về:
+A. The robot itself
+B. Other robots only
+C. The Internet
+D. Weather forecasts  
+Answer: A
+Giải thích: Mẹo nhớ:
+Proprioceptive = bên trong robot.
+Phần 3 — Exteroceptive Sensors
+Câu 19
+What do exteroceptive sensors gather?
+Exteroceptive sensors thu thập gì?
+A. External data
+B. Only internal motor speed
+C. Only joint angles
+D. Software code  
+Answer: A
+Giải thích: Exteroceptive Sensors = cảm biến thu thập dữ liệu bên ngoài.     AI Robotics #2
+Câu 20
+Which of the following is an example of an exteroceptive sensing technology?
+Đâu là ví dụ về công nghệ cảm biến exteroceptive?
+A. LiDAR
+B. CPU
+C. Battery
+D. Motor  
+Answer: A
+Giải thích: Slide đưa ra:
+LiDAR – Depth cameras – Ultrasonic units.
+Câu 21
+Which device can collect external depth information?
+Thiết bị nào có thể thu thập thông tin độ sâu từ môi trường bên ngoài?
+A. Depth camera
+B. Motor
+C. Battery
+D. Controller  
+Answer: A
+Giải thích: Depth camera = camera độ sâu.
+Câu 22
+Ultrasonic units belong to which category?
+Cảm biến siêu âm thuộc loại nào?
+A. Exteroceptive sensors
+B. Proprioceptive sensors
+C. Actuators
+D. Controllers  
+Answer: A
+Giải thích: Ultrasonic được liệt kê cùng LiDAR và depth camera trong nhóm Exteroceptive Sensors.
+Câu 23
+LiDAR is used in the lecture as an example of:
+LiDAR được dùng trong bài như một ví dụ của:
+A. External sensing
+B. Motor control
+C. Battery management
+D. Internal torque measurement  
+Answer: A
+Giải thích: LiDAR thuộc nhóm cảm biến thu thập external data.
+Câu 24
+Which sensor category helps a robot understand its surroundings?
+Nhóm cảm biến nào giúp robot hiểu môi trường xung quanh?
+A. Exteroceptive sensors
+B. Proprioceptive sensors only
+C. Actuators
+D. Motors  
+Answer: A
+Giải thích: Surroundings = môi trường xung quanh → Exteroceptive.
+Câu 25
+Which pair is correctly matched?
+Cặp nào sau đây được ghép đúng?
+A. Proprioceptive — internal states
+B. Exteroceptive — only internal states
+C. Actuator — environmental sensing
+D. Motor — data fusion  
+Answer: A
+Giải thích: Đây là cặp cần nhớ:
+Proprioceptive → Internal
+Exteroceptive → External
+Phần 4 — Data Fusion
+Câu 26
+What is Data Fusion?
+Data Fusion là gì?
+A. Combining multiple sensor inputs
+B. Removing all sensor data
+C. Controlling only one motor
+D. Charging several batteries  
+Answer: A
+Giải thích: Data Fusion = kết hợp dữ liệu từ nhiều sensor.     AI Robotics #2
+Câu 27
+Why is Data Fusion used?
+Tại sao Data Fusion được sử dụng?
+A. To build a unified and accurate model of the surroundings
+B. To turn off sensors
+C. To reduce the number of motors
+D. To charge the robot  
+Answer: A
+Giải thích: Tài liệu nói Data Fusion kết hợp nhiều sensor để tạo mô hình thống nhất và chính xác về môi trường xung quanh.
+Câu 28
+Data Fusion combines:
+Data Fusion kết hợp:
+A. Multi-sensor inputs
+B. Only one sensor
+C. Only motors
+D. Only batteries  
+Answer: A
+Giải thích: Multi-sensor = nhiều cảm biến.
+Câu 29
+The result of Data Fusion should be:
+Kết quả của Data Fusion nên là:
+A. A unified, accurate model
+B. Random information
+C. Less accurate information
+D. No environmental model  
+Answer: A
+Giải thích: Hai từ khóa trong slide:
+Unified + Accurate.
+Câu 30
+Which concept improves environmental understanding by combining sensor information?
+Khái niệm nào cải thiện khả năng hiểu môi trường bằng cách kết hợp thông tin cảm biến?
+A. Data Fusion
+B. Motor Speed
+C. Torque
+D. Physical Movement  
+Answer: A
+Giải thích: Đây chính là nhiệm vụ của Data Fusion.
+Phần 5 — Core Principles of Control
+Câu 31
+Which is a core principle of control mentioned in the lecture?
+Đâu là một nguyên lý cốt lõi của control được đề cập trong bài?
+A. Motion and Force Control
+B. Web Development
+C. Database Management
+D. File Management  
+Answer: A
+Giải thích: Có 3 nội dung chính:
+Motion and Force Control – Closed-Loop Feedback – SLAM Integration.     AI Robotics #2
+Câu 32
+What does Motion and Force Control translate environmental feedback into?
+Motion and Force Control chuyển phản hồi từ môi trường thành gì?
+A. Precise actuator commands
+B. Images
+C. Websites
+D. Database queries  
+Answer: A
+Giải thích: Slide ghi:
+Environmental feedback → precise actuator commands.
+Câu 33
+What does “precise actuator commands” mean?
+“Precise actuator commands” nghĩa là gì?
+A. Các lệnh chính xác cho cơ cấu chấp hành
+B. Dữ liệu camera
+C. Bản đồ Internet
+D. Tốc độ mạng  
+Answer: A
+Giải thích: Precise = chính xác, actuator = cơ cấu chấp hành, commands = lệnh.
+Câu 34
+Which principle uses continuous vision updates?
+Nguyên lý nào sử dụng cập nhật hình ảnh liên tục?
+A. Closed-Loop Feedback
+B. Data Fusion
+C. Torque Measurement
+D. Battery Control  
+Answer: A
+Giải thích: Closed-Loop Feedback sử dụng continuous vision updates để liên tục kiểm tra và sửa sai.
+Câu 35
+Closed-Loop Feedback is used to correct:
+Closed-Loop Feedback được sử dụng để sửa:
+A. Path drift and mechanical errors
+B. Website errors
+C. Database errors
+D. Email errors  
+Answer: A
+Giải thích: Slide ghi chính xác:
+correct path drift and mechanical errors.     AI Robotics #2
+Câu 36
+What does “path drift” refer to?
+“Path drift” nói đến điều gì?
+A. Deviation from the intended path
+B. Battery charging
+C. Camera resolution
+D. Motor temperature  
+Answer: A
+Giải thích: Có thể hiểu path drift = robot bị lệch khỏi đường đi dự kiến.
+Câu 37
+Why is feedback important in a closed-loop system?
+Tại sao feedback quan trọng trong hệ thống closed-loop?
+A. It allows the robot to detect and correct errors
+B. It removes all sensors
+C. It prevents movement
+D. It eliminates control  
+Answer: A
+Giải thích: Robot liên tục nhận feedback → phát hiện sai lệch → điều chỉnh lại.
+Câu 38
+Which type of feedback update is specifically mentioned in the lecture?
+Loại cập nhật feedback nào được nhắc cụ thể trong bài?
+A. Continuous vision updates
+B. Email updates
+C. Manual updates only
+D. Database updates  
+Answer: A
+Giải thích: Tài liệu ghi continuous vision updates.
+Phần 6 — SLAM
+Câu 39
+What does SLAM Integration combine?
+SLAM Integration kết hợp những gì?
+A. Localization and mapping
+B. Motor and battery
+C. Camera and website
+D. AI and email  
+Answer: A
+Giải thích: Đây là ý quan trọng:
+SLAM → Localization + Mapping.     AI Robotics #2
+Câu 40
+What does “localization” mean in robotics?
+“Localization” trong robotics có nghĩa là gì?
+A. Determining the robot's location
+B. Charging the robot
+C. Measuring motor speed
+D. Controlling lights  
+Answer: A
+Giải thích: Localization = xác định vị trí của robot.
+Câu 41
+What does “mapping” mean in robotics?
+“Mapping” trong robotics có nghĩa là gì?
+A. Building a representation of the environment
+B. Controlling motor speed
+C. Measuring torque
+D. Charging batteries  
+Answer: A
+Giải thích: Mapping = tạo bản đồ/mô hình biểu diễn môi trường.
+Câu 42
+What does SLAM help robots do?
+SLAM giúp robot làm gì?
+A. Navigate unknown spaces reliably
+B. Build websites
+C. Send emails
+D. Charge batteries  
+Answer: A
+Giải thích: Theo slide, SLAM giúp robot navigate unknown spaces reliably = di chuyển đáng tin cậy trong không gian chưa biết.
+Câu 43
+Which concept is most directly associated with navigating unknown environments?
+Khái niệm nào liên quan trực tiếp nhất đến việc di chuyển trong môi trường chưa biết?
+A. SLAM Integration
+B. Torque
+C. Motor speed
+D. Joint angle  
+Answer: A
+Giải thích: SLAM = Localization + Mapping, phục vụ điều hướng trong môi trường chưa biết.
+Câu 44
+Which of the following is NOT listed as a core principle of control?
+Đâu KHÔNG phải nguyên lý cốt lõi của control được liệt kê?
+A. Motion and Force Control
+B. Closed-Loop Feedback
+C. SLAM Integration
+D. Database Replication  
+Answer: D
+Giải thích: Slide chỉ liệt kê 3 nguyên lý đầu tiên.     AI Robotics #2
+Phần 7 — Tổng hợp
+Câu 45
+Which sensor would be more appropriate for measuring the robot's motor speed?
+Loại sensor nào phù hợp hơn để đo tốc độ động cơ của robot?
+A. Proprioceptive sensor
+B. Exteroceptive sensor
+C. Depth camera
+D. LiDAR  
+Answer: A
+Giải thích: Motor speed là internal state → Proprioceptive.
+Câu 46
+Which sensor type would be more appropriate for observing the external environment?
+Loại sensor nào phù hợp hơn để quan sát môi trường bên ngoài?
+A. Exteroceptive sensor
+B. Proprioceptive sensor
+C. Motor controller
+D. Actuator  
+Answer: A
+Giải thích: External → Exteroceptive.
+Câu 47
+A robot combines LiDAR, a depth camera, and ultrasonic data. Which concept does this best demonstrate?
+Một robot kết hợp dữ liệu từ LiDAR, depth camera và ultrasonic. Điều này thể hiện khái niệm nào rõ nhất?
+A. Data Fusion
+B. Torque Control
+C. Motor Speed
+D. Joint Control  
+Answer: A
+Giải thích: Nhiều nguồn sensor được kết hợp → Data Fusion.
+Câu 48
+A robot continuously observes its path and corrects its direction when it drifts. Which principle is being used?
+Một robot liên tục quan sát đường đi và sửa hướng khi bị lệch. Nó đang sử dụng nguyên lý nào?
+A. Closed-Loop Feedback
+B. Data Fusion
+C. Proprioception only
+D. Open-loop control  
+Answer: A
+Giải thích: Đây chính là:
+Feedback → detect error → correct error.
+Câu 49
+A robot needs to determine its position while creating a map of an unknown environment. What should it use?
+Một robot cần xác định vị trí đồng thời tạo bản đồ của môi trường chưa biết. Nó nên sử dụng gì?
+A. SLAM
+B. Torque measurement
+C. Motor speed measurement
+D. Data storage  
+Answer: A
+Giải thích:
+SLAM = Localization + Mapping
+Đây là một trong những ý quan trọng nhất của bài.     AI Robotics #2
+Câu 50
+Which statement best summarizes Robot Perception & Control?
+Câu nào mô tả đúng nhất Robot Perception & Control?
+A. Robots use sensors to gather data, algorithms to make decisions, and control to execute movements.
+Robot dùng cảm biến thu thập dữ liệu, thuật toán để ra quyết định và điều khiển để thực hiện chuyển động.
+B. Robots only collect sensor data.
+Robot chỉ thu thập dữ liệu cảm biến.
+C. Robots only control motors.
+Robot chỉ điều khiển động cơ.
+D. Robots do not need environmental information.
+Robot không cần thông tin môi trường.
+Answer: A
+Giải thích: Đây gần như chính là định nghĩa của bài: gather environmental data → apply algorithms → make decisions → execute physical movements.     AI Robotics #2
+🔥 Những phần nên học thuộc
+1. Perception & Control
+Sensors → Environmental Data → Algorithms → Decision → Physical Movement
+2. Hai loại sensor quan trọng
+Proprioceptive = INTERNAL (bên trong)
+→ Joint angles, Motor speed, Torque.
+Exteroceptive = EXTERNAL (bên ngoài)
+→ LiDAR, Depth cameras, Ultrasonic.
+3. Data Fusion
+Multiple sensors → Unified + Accurate model of surroundings
+4. Core Principles of Control
+Motion & Force Control → feedback thành actuator commands.
+Closed-Loop Feedback → continuous updates → sửa path drift + mechanical errors.
+SLAM Integration → Localization + Mapping → navigate unknown spaces.     AI Robotics #2
+Mẹo nhớ cực nhanh:
+PRO = bản thân robot → INTERNAL
+EXTER = bên ngoài → EXTERNAL
+FUSION = gộp nhiều sensor
+CLOSED-LOOP = thấy sai → sửa sai
+SLAM = biết mình ở đâu + xây bản đồ.
+
+
+
+
+
+    
+
+
+
+
+
+
+
+đủ hết bám theo slide ch
+
+
+
+
+
+ 
+
+
+
+
+
+
+Ừ, mình đã đối chiếu lại AI & Robotics #2. Bộ 50 câu vừa rồi phủ gần hết phần kiến thức lý thuyết trọng tâm, nhưng nếu bạn hỏi “đủ hết và bám 100% theo từng slide chưa?” thì chưa hoàn toàn.
+File #2 có 7 trang. Nội dung thực tế gồm:
+- Trang 2 – Mục tiêu buổi học: các loại sensor; robot thực hiện công việc cụ thể như robot nhún nhảy/xe tự hành; phối hợp sensor với thiết bị khác; làm việc nhóm; thuyết trình; ý tưởng đề tài; hiểu cách vận hành hệ thống tự động.     AI Robotics #2
+- Trang 3 – Index: 8 buổi học và sản phẩm đầu ra; riêng buổi 2 là Robot Perception & Control → Control Logic.     AI Robotics #2
+- Trang 4 – Perception & Control: sensor → environmental data → algorithms → decisions → physical movements.     AI Robotics #2
+- Trang 5 – Key Components of Perception: Proprioceptive Sensors, Exteroceptive Sensors, Data Fusion. Đây là phần rất quan trọng.     AI Robotics #2
+- Trang 6 – Core Principles of Control: Motion and Force Control, Closed-Loop Feedback, SLAM Integration.     AI Robotics #2
+- Trang 7 – Ideas: 5 ý tưởng gồm My robot, Robot tự hành, Phi thuyền Apollo, AI Light control, Trộn màu.     AI Robotics #2
+Bộ 50 câu mình vừa tạo tập trung mạnh vào trang 4–6, tức phần dễ ra kiến thức nhất. Nhưng trang 2, bảng Index trang 3 và đặc biệt 5 project ideas trang 7 chưa được hỏi đầy đủ.
+Ví dụ những câu còn có thể ra rất sát slide:
+Which of the following is suggested as a small project idea?
+Đâu là một ý tưởng dự án nhỏ được đề xuất trong slide?
+A. AI Light Control
+B. Online Shopping
+C. Chat Application
+D. Database Server  
+Answer: A
+Giải thích: Trang 7 liệt kê AI Light control, trong đó đèn giao thông ở ngã tư được điều khiển theo mật độ xe.     AI Robotics #2
+Hoặc:
+What is the output product of Session 2?
+Sản phẩm đầu ra của buổi 2 là gì?
+A. AI Pipeline
+B. Control Logic
+C. Mobile Robot
+D. System Architecture  
+Answer: B
+Giải thích: Session 2: Robot Perception & Control → Control Logic.     AI Robotics #2
+Vậy nếu mục tiêu của bạn là ôn thi và thầy có thể hỏi bất kỳ chi tiết nào trên slide, mình sẽ ưu tiên chỉ lấy đúng thông tin có trong slide, không tự thêm kiến thức ngoài như một số câu giải thích mở rộng trước đó. Bộ hoàn chỉnh nên bao phủ cả 7 trang, nhưng tập trung nhiều câu hơn vào trang 4–6 vì đó là phần lý thuyết chính.
+
+
+
+
+
+    
+
+
+
+
+
+
+
+AI Robotics #3-Sensor & Motion Control.pptx.pdfPDF
+
+
+
+
+
+
+
+Có. File #3: Sensor & Motion Control này mình sẽ làm giống hai bộ trước: 50 câu, tiếng Anh + dịch tiếng Việt ngay dưới câu hỏi + đáp án + giải thích, và lần này bám toàn bộ nội dung slide, kể cả mục tiêu, Index, Key Components, Core Principles và Ideas.     AI Robotics #3-Sensor & Motion …
+AI & Robotics #3 — Sensor & Motion Control
+50 Multiple Choice Questions
+1. What is the main topic of Lesson #3?
+Chủ đề chính của bài #3 là gì?
+A. Robot Perception & Control
+B. Sensor & Motion Control
+C. Computer Vision
+D. Autonomous Navigation  
+Answer: B
+Giải thích: Tiêu đề bài #3 là Sensor & Motion Control.     AI Robotics #3-Sensor & Motion …
+2. What is the practical goal of this lesson?
+Mục tiêu thực tế của buổi học này là gì?
+A. To understand how a self-balancing robot operates
+B. To build a website
+C. To understand databases
+D. To create an AI chatbot  
+Answer: A
+Giải thích: Slide 2 ghi mục tiêu thực tế là giúp sinh viên hiểu cách vận hành robot tự cân bằng.     AI Robotics #3-Sensor & Motion …
+3. Which topic is included in the lesson objectives?
+Nội dung nào nằm trong mục tiêu của buổi học?
+A. Object movement problems
+B. Database design
+C. Network security
+D. Web development  
+Answer: A
+Giải thích: Một mục tiêu là hiểu các vấn đề chuyển động của vật.
+4. Students will learn about the ______ of an object when it moves.
+Sinh viên sẽ học về ______ của vật khi nó di chuyển.
+A. color — màu sắc
+B. speed — tốc độ
+C. price — giá
+D. name — tên  
+Answer: B
+Giải thích: Slide có mục “Tốc độ của vật khi di chuyển.”
+5. Which sensors are mentioned in the lesson objectives?
+Loại sensor nào được nhắc đến trong mục tiêu bài học?
+A. Balance sensors
+B. Temperature sensors only
+C. Network sensors
+D. Database sensors  
+Answer: A
+Giải thích: Slide đề cập các sensor cân bằng khi di chuyển.     AI Robotics #3-Sensor & Motion …
+Index
+6. What is the output product of Session 3?
+Sản phẩm đầu ra của buổi 3 là gì?
+A. AI Pipeline
+B. Mobile Robot
+C. Control Logic
+D. Vision Robot  
+Answer: B
+Giải thích:
+Session 3 → Sensor & Motion Control → Mobile Robot.     AI Robotics #3-Sensor & Motion …
+7. What is the topic of Session 2?
+Chủ đề của buổi 2 là gì?
+A. Robot Perception & Control
+B. Sensor & Motion Control
+C. Computer Vision
+D. Engineering Challenge  
+Answer: A
+Giải thích: Buổi 2 là Robot Perception & Control.
+8. What is the output of Robot Perception & Control?
+Sản phẩm đầu ra của Robot Perception & Control là gì?
+A. Mobile Robot
+B. Control Logic
+C. AI Pipeline
+D. Final Prototype  
+Answer: B
+Giải thích: Robot Perception & Control → Control Logic.
+9. What is the output of AI & Computer Vision for Robotics?
+Sản phẩm đầu ra của AI & Computer Vision for Robotics là gì?
+A. AI Pipeline
+B. Mobile Robot
+C. Vision Robot
+D. System Architecture  
+Answer: A
+10. What is the output of Autonomous Navigation?
+Sản phẩm đầu ra của Autonomous Navigation là gì?
+A. Mobile Robot
+B. Vision Robot
+C. Obstacle Avoidance Robot
+D. Control Logic  
+Answer: C
+Giải thích: Bảng Index ghi Autonomous Navigation → Obstacle Avoidance Robot.     AI Robotics #3-Sensor & Motion …
+Sensor & Motion Control
+11. What do sensor and motion control systems use?
+Hệ thống sensor và motion control sử dụng gì?
+A. Advanced feedback devices and algorithms
+B. Only motors
+C. Only cameras
+D. Only batteries  
+Answer: A
+Giải thích: Slide định nghĩa hệ thống sử dụng advanced feedback devices and algorithms.     AI Robotics #3-Sensor & Motion …
+12. Sensor and motion control systems precisely regulate:
+Hệ thống Sensor & Motion Control điều chỉnh chính xác những gì?
+A. Position, velocity, and trajectory
+B. Color, sound, and temperature
+C. Voltage only
+D. Images only  
+Answer: A
+Giải thích: Đây là 3 từ rất quan trọng:
+Position + Velocity + Trajectory
+= Vị trí + Vận tốc + Quỹ đạo.
+13. What does “position” mean?
+“Position” nghĩa là gì?
+A. Vị trí
+B. Vận tốc
+C. Quỹ đạo
+D. Gia tốc  
+Answer: A
+14. What does “velocity” mean?
+“Velocity” nghĩa là gì?
+A. Vị trí
+B. Vận tốc
+C. Quỹ đạo
+D. Lực  
+Answer: B
+15. What does “trajectory” mean?
+“Trajectory” nghĩa là gì?
+A. Cảm biến
+B. Quỹ đạo
+C. Động cơ
+D. Tốc độ mạng  
+Answer: B
+16. Sensor and motion control is used in:
+Sensor & Motion Control được sử dụng trong:
+A. Automation and robotics
+B. Social media only
+C. Email only
+D. Web design only  
+Answer: A
+Giải thích: Slide ghi mechanical components in automation and robotics.     AI Robotics #3-Sensor & Motion …
+Key Components
+17. Which of the following is a key component of motion control?
+Đâu là một thành phần chính của motion control?
+A. Motion Controller
+B. Web Browser
+C. Database
+D. Email Server  
+Answer: A
+18. What does the Motion Controller compute?
+Motion Controller tính toán những gì?
+A. Motion profiles, trajectories, and coordination
+B. Website layouts
+C. Database tables
+D. Images only  
+Answer: A
+Giải thích: Motion Controller tính:
+Motion profiles + Trajectories + Coordination.     AI Robotics #3-Sensor & Motion …
+19. Motion Controller provides coordination for:
+Motion Controller cung cấp khả năng phối hợp cho:
+A. Multi-axis systems
+B. Websites
+C. Databases
+D. Networks  
+Answer: A
+Giải thích: Slide ghi coordination for multi-axis systems.
+20. What does “multi-axis” mean?
+“Multi-axis” nghĩa là gì?
+A. Nhiều trục
+B. Một cảm biến
+C. Một động cơ
+D. Một nguồn điện  
+Answer: A
+21. What is the function of Drivers and Amplifiers?
+Chức năng của Drivers and Amplifiers là gì?
+A. Convert low-power control signals into higher-power signals
+B. Detect heat
+C. Measure position only
+D. Create trajectories  
+Answer: A
+Giải thích: Drivers/Amplifiers chuyển low-power control signals thành high-current hoặc high-voltage signals.     AI Robotics #3-Sensor & Motion …
+22. Drivers and Amplifiers convert low-power signals into:
+Drivers and Amplifiers chuyển tín hiệu công suất thấp thành:
+A. High-current or high-voltage signals
+B. Images
+C. Sound files
+D. Maps  
+Answer: A
+23. Why are high-current or high-voltage signals needed?
+Tại sao cần tín hiệu dòng điện cao hoặc điện áp cao?
+A. To drive the actuators
+B. To store data
+C. To create websites
+D. To measure temperature  
+Answer: A
+Giải thích: Theo slide, tín hiệu này được dùng to drive the actuators.
+24. Which devices track real-time position and speed?
+Thiết bị nào theo dõi vị trí và tốc độ theo thời gian thực?
+A. Feedback Sensors
+B. Batteries
+C. CPUs only
+D. Displays  
+Answer: A
+25. Which is an example of a Feedback Sensor mentioned in the slide?
+Đâu là ví dụ về Feedback Sensor được đề cập trong slide?
+A. Encoder
+B. Keyboard
+C. Speaker
+D. Monitor  
+Answer: A
+26. Which three feedback devices are mentioned?
+Ba thiết bị feedback nào được đề cập?
+A. Encoders, resolvers, and linear transducers
+B. Cameras, microphones, and speakers
+C. Motors, batteries, and wheels
+D. CPUs, GPUs, and RAM  
+Answer: A
+Giải thích: Slide liệt kê:
+Encoders + Resolvers + Linear Transducers.     AI Robotics #3-Sensor & Motion …
+27. Feedback Sensors track information:
+Feedback Sensors theo dõi thông tin:
+A. In real time
+B. Once a year
+C. Only before movement
+D. Only after shutdown  
+Answer: A
+Giải thích: Slide dùng cụm real-time position and speed.
+28. Feedback Sensor information is sent back into:
+Thông tin từ Feedback Sensor được gửi trở lại đâu?
+A. The control loop
+B. The battery
+C. The website
+D. The display  
+Answer: A
+Giải thích: Đây chính là feedback: dữ liệu được đưa ngược trở lại control loop để điều khiển.
+29. What do Actuators and Motors execute?
+Actuators và Motors thực hiện điều gì?
+A. Physical movement
+B. Data storage
+C. Image recognition
+D. Website rendering  
+Answer: A
+30. Actuators and Motors can operate based on:
+Actuators và Motors có thể hoạt động dựa trên:
+A. Electrical, hydraulic, or pneumatic power
+B. Internet only
+C. Solar power only
+D. AI only  
+Answer: A
+Giải thích: Slide nêu đúng 3 loại:
+Electrical – Hydraulic – Pneumatic.     AI Robotics #3-Sensor & Motion …
+Core Principles / Sensors
+31. What does PIR stand for?
+PIR là viết tắt của gì?
+A. Passive Infrared
+B. Position Internal Robot
+C. Power Infrared Robot
+D. Passive Internal Rotation  
+Answer: A
+Giải thích: PIR = Passive Infrared.     AI Robotics #3-Sensor & Motion …
+32. What do PIR sensors detect?
+Cảm biến PIR phát hiện gì?
+A. Heat signatures and energy variations
+B. Motor speed only
+C. Voltage only
+D. Sound only  
+Answer: A
+Giải thích: PIR phát hiện heat signatures and energy variations.
+33. PIR sensors detect energy variations emitted by:
+PIR phát hiện biến đổi năng lượng phát ra bởi:
+A. Living objects
+B. Databases
+C. Websites
+D. Software  
+Answer: A
+Giải thích: Slide ghi emitted by living objects – phát ra bởi các vật thể sống.
+34. Which sensor is associated with detecting heat signatures?
+Sensor nào liên quan đến phát hiện dấu hiệu nhiệt?
+A. PIR Sensor
+B. Encoder
+C. Resolver
+D. Linear transducer  
+Answer: A
+35. Ultrasonic sensors emit:
+Cảm biến siêu âm phát ra:
+A. High-frequency sound
+B. Visible light only
+C. Low-frequency electricity
+D. Heat only  
+Answer: A
+Giải thích: Ultrasonic → high-frequency sound.     AI Robotics #3-Sensor & Motion …
+36. Microwave sensors use:
+Cảm biến microwave sử dụng:
+A. Electromagnetic waves
+B. Hydraulic power
+C. Water waves
+D. Mechanical gears  
+Answer: A
+Giải thích: Slide ghép:
+Ultrasonic → high-frequency sound
+Microwave → electromagnetic waves
+37. Ultrasonic and microwave sensors detect disruptions caused by:
+Ultrasonic và microwave sensor phát hiện sự thay đổi gây ra bởi:
+A. Moving objects
+B. Databases
+C. Websites
+D. Batteries  
+Answer: A
+38. Which pair is correctly matched?
+Cặp nào được ghép đúng?
+A. PIR — heat signatures
+B. PIR — motor speed
+C. Encoder — heat signatures
+D. Motor — electromagnetic sensing  
+Answer: A
+39. Which pair is correctly matched?
+Cặp nào được ghép đúng?
+A. Ultrasonic — high-frequency sound
+B. Ultrasonic — hydraulic pressure only
+C. PIR — high-voltage signals
+D. Motor — heat signatures  
+Answer: A
+40. Which pair is correctly matched?
+Cặp nào được ghép đúng?
+A. Microwave sensor — electromagnetic waves
+B. Microwave sensor — hydraulic fluid
+C. PIR — trajectories
+D. Encoder — heat signatures  
+Answer: A
+Safe Motion Monitoring
+41. What is the purpose of Safe Motion Monitoring?
+Mục đích của Safe Motion Monitoring là gì?
+A. To protect operators and equipment
+B. To increase Internet speed
+C. To create maps
+D. To store sensor data  
+Answer: A
+Giải thích: Safe Motion Monitoring giúp protect operators and equipment.     AI Robotics #3-Sensor & Motion …
+42. Safe Motion Monitoring monitors:
+Safe Motion Monitoring giám sát:
+A. Movement limits
+B. Website traffic
+C. Database size
+D. Email messages  
+Answer: A
+43. Movement limits are monitored:
+Giới hạn chuyển động được giám sát:
+A. In real time
+B. Once per day
+C. Only before starting
+D. Only after stopping  
+Answer: A
+Giải thích: Slide ghi monitoring movement limits in real time.
+44. Safe Motion Monitoring protects:
+Safe Motion Monitoring bảo vệ:
+A. Operators and equipment
+B. Websites and databases
+C. Emails and files
+D. Maps and images  
+Answer: A
+Ideas + Tổng hợp
+45. Which project idea is mentioned in the slide?
+Ý tưởng dự án nào được đề cập trong slide?
+A. Self-balancing robot
+B. Online shopping website
+C. Chat application
+D. Database system  
+Answer: A
+Giải thích: Trang cuối đề xuất Robot cân bằng.     AI Robotics #3-Sensor & Motion …
+46. What is one suggested drone project?
+Một dự án drone được đề xuất là gì?
+A. A drone balancing an object such as a glass of water without spilling it
+B. A drone building a website
+C. A drone storing databases
+D. A drone sending emails  
+Answer: A
+Giải thích: Slide đề xuất tự cân bằng trên drone, ví dụ mang một ly nước mà không làm đổ.
+47. Which other balancing idea is suggested?
+Ý tưởng cân bằng nào khác được đề xuất?
+A. Balancing objects while transporting them along a path
+B. Creating an AI website
+C. Detecting passwords
+D. Creating databases  
+Answer: A
+Giải thích: Slide đề cập việc chở đồ vật và giữ chúng cân bằng trên đường đi.     AI Robotics #3-Sensor & Motion …
+48. A system needs to know its position and speed continuously. Which component should it use?
+Một hệ thống cần biết liên tục vị trí và tốc độ. Nó nên sử dụng thành phần nào?
+A. Feedback Sensors
+B. PIR only
+C. Drivers only
+D. Batteries  
+Answer: A
+Giải thích: Feedback Sensors theo dõi real-time position and speed.     AI Robotics #3-Sensor & Motion …
+49. A low-power controller cannot directly provide enough power to an actuator. Which component should be used?
+Một controller có tín hiệu công suất thấp không đủ để điều khiển trực tiếp actuator. Nên dùng thành phần nào?
+A. Drivers and Amplifiers
+B. PIR Sensors
+C. Feedback Sensors
+D. Linear transducers  
+Answer: A
+Giải thích: Đây chính xác là nhiệm vụ của Drivers and Amplifiers:
+Low-power control signal → High-current / High-voltage signal → Actuator.
+50. Which statement best summarizes Sensor & Motion Control?
+Câu nào mô tả đúng nhất Sensor & Motion Control?
+A. It uses feedback devices and algorithms to precisely regulate position, velocity, and trajectory.
+Nó sử dụng các thiết bị feedback và thuật toán để điều chỉnh chính xác vị trí, vận tốc và quỹ đạo.
+B. It only detects heat.
+Nó chỉ phát hiện nhiệt.
+C. It only controls batteries.
+Nó chỉ điều khiển pin.
+D. It is only used for computer vision.
+Nó chỉ được sử dụng cho Computer Vision.
+Answer: A
+Giải thích: Đây chính là định nghĩa trọng tâm ở slide 4.     AI Robotics #3-Sensor & Motion …
+🔥 Học cấp tốc: phần dễ ra nhất
+Bạn nên thuộc 4 cụm này:
+1. Sensor & Motion Control
+Feedback devices + Algorithms → Position + Velocity + Trajectory
+→ Thiết bị phản hồi + thuật toán → điều khiển vị trí + vận tốc + quỹ đạo.
+2. 4 Key Components
+Motion Controller → motion profiles + trajectories + multi-axis coordination
+Drivers & Amplifiers → low power → high current/high voltage
+Feedback Sensors → real-time position + speed
+Actuators & Motors → physical movement.     AI Robotics #3-Sensor & Motion …
+3. Các sensor
+PIR → Heat signatures / living objects
+Ultrasonic → High-frequency sound
+Microwave → Electromagnetic waves
+Safe Motion Monitoring → Movement limits → Protect operators & equipment.     AI Robotics #3-Sensor & Motion …
+4. Một chuỗi rất dễ nhớ
+Motion Controller → Drivers/Amplifiers → Actuators/Motors → Movement
+và
+Feedback Sensors → Position + Speed → Control Loop
+Nếu đề thi lấy nguyên văn slide, các từ khóa position, velocity, trajectory, multi-axis, low-power, high-current/high-voltage, real-time position and speed, heat signatures, high-frequency sound, electromagnetic waves, movement limits là những từ nên thuộc nhất.
+Which statement about AI-enabled robots is correct?
+Phát biểu nào về robot tích hợp AI là đúng?
+A. They cannot process sensor data.
+Chúng không thể xử lý dữ liệu cảm biến.
+B. They only follow fixed rules.
+Chúng chỉ tuân theo luật cố định.
+C. They can use perception and AI for decision-making.
+Chúng có thể sử dụng perception và AI để ra quyết định.
+D. They do not need actuators.
+Chúng không cần cơ cấu chấp hành.
+Answer: C
+Giải thích: AI Robot có:
+Perception → AI → Decision
+Đây là khác biệt quan trọng so với Traditional Robot. dạng vậy nè trên anh dưới việt
+Đúng. Ý bạn là toàn bộ phần tiếng Anh ở trên, ngay bên dưới là tiếng Việt tương ứng, kể cả từng đáp án. Format chuẩn sẽ như này:
+
+Which statement about AI-enabled robots is correct?
+Phát biểu nào về robot tích hợp AI là đúng?
+
+A. They cannot process sensor data.
+Chúng không thể xử lý dữ liệu cảm biến.
+
+B. They only follow fixed rules.
+Chúng chỉ tuân theo các quy tắc cố định.
+
+C. They can use perception and AI for decision-making.
+Chúng có thể sử dụng khả năng nhận thức và AI để ra quyết định.
+
+D. They do not need actuators.
+Chúng không cần cơ cấu chấp hành.
+
+Answer: C
+
+Giải thích: AI Robot có:
+
+Perception → AI → Decision
+Nhận thức → AI → Ra quyết định
+
+Đây là điểm khác biệt quan trọng so với Traditional Robot.
+
+Và với file #3 Sensor & Motion Control sẽ trình bày như:
+
+What is the main function of Feedback Sensors?
+Chức năng chính của Feedback Sensors là gì?
+
+A. They detect heat from living objects.
+Chúng phát hiện nhiệt từ các vật thể sống.
+
+B. They track real-time position and speed.
+Chúng theo dõi vị trí và tốc độ theo thời gian thực.
+
+C. They calculate motion trajectories.
+Chúng tính toán quỹ đạo chuyển động.
+
+D. They provide hydraulic power.
+Chúng cung cấp năng lượng thủy lực.
+
+Answer: B
+
+Giải thích: Theo slide, Feedback Sensors theo dõi:
+
+Real-time position + Speed
+Vị trí theo thời gian thực + Tốc độ
+
+Sau đó thông tin được đưa trở lại control loop (vòng điều khiển). 
+
+Từ giờ bộ câu hỏi mình làm cho bạn sẽ giữ đúng kiểu: 1 dòng Anh → ngay dưới 1 dòng Việt, không để Anh–Việt chung một dòng.
+
+
+AI Robotics #4-Computer Vision for Robotics.pptx.pdf
+PDF
+format như vậy
+Được. Với file Computer Vision for Robotics này mình sẽ làm đúng format đó và bám toàn bộ slide, gồm quy trình Computer Vision, ứng dụng, Object Detection, Semantic Segmentation, Keypoint Detection, CNN, YOLO, Faster R-CNN, SSD, RetinaNet và Generative Models. 
+
+AI & Robotics — Computer Vision for Robotics
+50 Multiple Choice Questions
+Câu 1
+What is Computer Vision AI?
+Computer Vision AI là gì?
+
+A. A branch of artificial intelligence that processes and understands visual data.
+Một nhánh của trí tuệ nhân tạo xử lý và hiểu dữ liệu hình ảnh.
+
+B. A system used only to control motors.
+Một hệ thống chỉ dùng để điều khiển động cơ.
+
+C. A technology used only to store images.
+Một công nghệ chỉ dùng để lưu trữ hình ảnh.
+
+D. A type of mechanical sensor.
+Một loại cảm biến cơ khí.
+
+Answer: A
+
+Giải thích: Computer Vision AI là một nhánh của Artificial Intelligence, huấn luyện máy tính để process, analyze, and understand visual data từ hình ảnh và video. 
+
+Câu 2
+What types of data does Computer Vision mainly process?
+Computer Vision chủ yếu xử lý những loại dữ liệu nào?
+
+A. Images and videos.
+Hình ảnh và video.
+
+B. Audio only.
+Chỉ âm thanh.
+
+C. Text only.
+Chỉ văn bản.
+
+D. Network packets only.
+Chỉ các gói tin mạng.
+
+Answer: A
+
+Giải thích: Slide định nghĩa Computer Vision xử lý visual data from images and videos.
+
+Câu 3
+Computer Vision attempts to understand visual data like what?
+Computer Vision cố gắng hiểu dữ liệu hình ảnh giống như gì?
+
+A. A human.
+Con người.
+
+B. A motor.
+Động cơ.
+
+C. A battery.
+Pin.
+
+D. A database.
+Cơ sở dữ liệu.
+
+Answer: A
+
+Giải thích: Slide dùng cụm “understand visual data from images and videos like a human.” 
+
+How Computer Vision Works
+Câu 4
+What is the first stage in the basic working of Computer Vision?
+Giai đoạn đầu tiên trong quy trình cơ bản của Computer Vision là gì?
+
+A. Image Acquisition.
+Thu nhận hình ảnh.
+
+B. Feature Extraction.
+Trích xuất đặc trưng.
+
+C. High-Level Understanding.
+Hiểu ở mức cao.
+
+D. Classification.
+Phân loại.
+
+Answer: A
+
+Giải thích: Quy trình trên slide bắt đầu bằng Image Acquisition. 
+
+Câu 5
+What is Image Acquisition?
+Image Acquisition là gì?
+
+A. Acquiring an image or video using a camera or sensor.
+Thu nhận hình ảnh hoặc video bằng camera hoặc cảm biến.
+
+B. Removing noise from an image.
+Loại bỏ nhiễu khỏi hình ảnh.
+
+C. Detecting objects in an image.
+Phát hiện vật thể trong hình ảnh.
+
+D. Creating a new image.
+Tạo ra một hình ảnh mới.
+
+Answer: A
+
+Giải thích: Image Acquisition là bước thu nhận image/video bằng thiết bị như camera hoặc sensor.
+
+Câu 6
+What kind of data is obtained during Image Acquisition?
+Loại dữ liệu nào thu được trong bước Image Acquisition?
+
+A. Raw data.
+Dữ liệu thô.
+
+B. Classified data.
+Dữ liệu đã phân loại.
+
+C. Generated data.
+Dữ liệu được tạo ra.
+
+D. Final output.
+Kết quả cuối cùng.
+
+Answer: A
+
+Giải thích: Dữ liệu vừa thu từ camera/sensor là raw data – dữ liệu thô và được chuyển sang preprocessing. 
+
+Câu 7
+What happens during Data Preprocessing?
+Điều gì xảy ra trong bước Data Preprocessing?
+
+A. Unwanted noise is removed and image quality is enhanced.
+Nhiễu không mong muốn được loại bỏ và chất lượng hình ảnh được cải thiện.
+
+B. The robot turns off the camera.
+Robot tắt camera.
+
+C. New images are generated.
+Hình ảnh mới được tạo ra.
+
+D. The motor starts moving.
+Động cơ bắt đầu chuyển động.
+
+Answer: A
+
+Giải thích: Data Preprocessing làm sạch dữ liệu bằng cách remove unwanted noise và enhance image quality.
+
+Câu 8
+Why is Data Preprocessing performed?
+Tại sao Data Preprocessing được thực hiện?
+
+A. To make the data suitable for further analysis.
+Để làm cho dữ liệu phù hợp cho việc phân tích tiếp theo.
+
+B. To delete all images.
+Để xóa tất cả hình ảnh.
+
+C. To control the robot's wheels.
+Để điều khiển bánh xe của robot.
+
+D. To reduce battery power.
+Để giảm năng lượng pin.
+
+Answer: A
+
+Giải thích: Sau preprocessing, dữ liệu có chất lượng tốt hơn và suitable for further analysis. 
+
+Câu 9
+What happens during Feature Extraction?
+Điều gì xảy ra trong bước Feature Extraction?
+
+A. Features and patterns are extracted from the image.
+Các đặc trưng và mẫu được trích xuất từ hình ảnh.
+
+B. The image is deleted.
+Hình ảnh bị xóa.
+
+C. The battery is charged.
+Pin được sạc.
+
+D. The motor is controlled.
+Động cơ được điều khiển.
+
+Answer: A
+
+Giải thích: Feature Extraction = trích xuất đặc trưng/mẫu từ dữ liệu hình ảnh đã được xử lý.
+
+Câu 10
+Which of the following is an initial image feature mentioned in the slide?
+Đâu là một đặc trưng hình ảnh ban đầu được đề cập trong slide?
+
+A. Edges.
+Cạnh.
+
+B. Sound.
+Âm thanh.
+
+C. Voltage.
+Điện áp.
+
+D. Temperature.
+Nhiệt độ.
+
+Answer: A
+
+Giải thích: Slide liệt kê edges, shapes, and textures là các đặc trưng ban đầu. 
+
+Câu 11
+Which three initial features are mentioned in Feature Extraction?
+Ba đặc trưng ban đầu nào được đề cập trong Feature Extraction?
+
+A. Edges, shapes, and textures.
+Cạnh, hình dạng và kết cấu.
+
+B. Speed, position, and torque.
+Tốc độ, vị trí và mô-men xoắn.
+
+C. Sound, heat, and voltage.
+Âm thanh, nhiệt và điện áp.
+
+D. Motor, camera, and battery.
+Động cơ, camera và pin.
+
+Answer: A
+
+Giải thích: Cần nhớ:
+
+Edges + Shapes + Textures
+
+Câu 12
+What is the final stage of the Computer Vision process shown in the slide?
+Giai đoạn cuối cùng của quy trình Computer Vision trong slide là gì?
+
+A. High-Level Understanding.
+Hiểu ở mức cao.
+
+B. Image Acquisition.
+Thu nhận hình ảnh.
+
+C. Data Preprocessing.
+Tiền xử lý dữ liệu.
+
+D. Feature Extraction.
+Trích xuất đặc trưng.
+
+Answer: A
+
+Câu 13
+What happens during High-Level Understanding?
+Điều gì xảy ra trong giai đoạn High-Level Understanding?
+
+A. Extracted features are used for inference to interpret the image.
+Các đặc trưng đã trích xuất được dùng để suy luận và diễn giải hình ảnh.
+
+B. Images are captured by a camera.
+Hình ảnh được camera thu nhận.
+
+C. Noise is added to the image.
+Nhiễu được thêm vào hình ảnh.
+
+D. The image is deleted.
+Hình ảnh bị xóa.
+
+Answer: A
+
+Giải thích: Ở bước cuối, các feature được đưa vào inference để hệ thống hiểu nội dung hình ảnh. 
+
+Câu 14
+Which is the correct order of the Computer Vision process?
+Đâu là thứ tự đúng của quy trình Computer Vision?
+
+A. Image Acquisition → Data Preprocessing → Feature Extraction → High-Level Understanding.
+Thu nhận hình ảnh → Tiền xử lý dữ liệu → Trích xuất đặc trưng → Hiểu ở mức cao.
+
+B. Feature Extraction → Image Acquisition → Preprocessing → Understanding.
+Trích xuất đặc trưng → Thu nhận hình ảnh → Tiền xử lý → Hiểu.
+
+C. Understanding → Acquisition → Extraction → Preprocessing.
+Hiểu → Thu nhận → Trích xuất → Tiền xử lý.
+
+D. Preprocessing → Understanding → Acquisition → Extraction.
+Tiền xử lý → Hiểu → Thu nhận → Trích xuất.
+
+Answer: A
+
+Giải thích: Đây là chuỗi quan trọng cần học thuộc:
+
+Acquisition → Preprocessing → Feature Extraction → High-Level Understanding. 
+
+Main Uses
+Câu 15
+What can autonomous vehicles use Vision AI to detect?
+Xe tự hành có thể sử dụng Vision AI để phát hiện gì?
+
+A. Pedestrians, lane lines, and traffic lights.
+Người đi bộ, vạch làn đường và đèn giao thông.
+
+B. Only engine temperature.
+Chỉ nhiệt độ động cơ.
+
+C. Only battery voltage.
+Chỉ điện áp pin.
+
+D. Only road names.
+Chỉ tên đường.
+
+Answer: A
+
+Câu 16
+How is Computer Vision used in healthcare?
+Computer Vision được sử dụng trong y tế như thế nào?
+
+A. It analyzes medical scans to detect early signs of diseases.
+Nó phân tích ảnh chụp y tế để phát hiện sớm dấu hiệu bệnh.
+
+B. It controls traffic lights.
+Nó điều khiển đèn giao thông.
+
+C. It manages inventory only.
+Nó chỉ quản lý hàng tồn kho.
+
+D. It controls robot motors.
+Nó điều khiển động cơ robot.
+
+Answer: A
+
+Giải thích: Slide lấy ví dụ phát hiện sớm bệnh như cancer từ medical scans. 
+
+Câu 17
+Which Computer Vision technology is mentioned for security?
+Công nghệ Computer Vision nào được đề cập trong lĩnh vực an ninh?
+
+A. Facial recognition.
+Nhận diện khuôn mặt.
+
+B. Speech recognition.
+Nhận dạng giọng nói.
+
+C. GPS.
+Định vị GPS.
+
+D. Temperature control.
+Điều khiển nhiệt độ.
+
+Answer: A
+
+Câu 18
+How can Computer Vision be used in retail and manufacturing?
+Computer Vision có thể được sử dụng trong bán lẻ và sản xuất như thế nào?
+
+A. To track inventory and inspect products for defects.
+Theo dõi hàng tồn kho và kiểm tra lỗi sản phẩm.
+
+B. Only to recognize faces.
+Chỉ để nhận diện khuôn mặt.
+
+C. Only to drive cars.
+Chỉ để lái xe.
+
+D. Only to detect diseases.
+Chỉ để phát hiện bệnh.
+
+Answer: A
+
+Giải thích: Đây là một trong bốn nhóm ứng dụng chính trên trang 6. 
+
+Object Detection & Segmentation
+Câu 19
+What does Object Detection do?
+Object Detection làm gì?
+
+A. It identifies and locates objects in an image.
+Nó nhận diện và xác định vị trí vật thể trong hình ảnh.
+
+B. It only classifies the whole image.
+Nó chỉ phân loại toàn bộ hình ảnh.
+
+C. It generates new images.
+Nó tạo ra hình ảnh mới.
+
+D. It removes image noise.
+Nó loại bỏ nhiễu hình ảnh.
+
+Answer: A
+
+Câu 20
+What information does Object Detection provide about an object?
+Object Detection cung cấp thông tin gì về một vật thể?
+
+A. Its class and coordinates.
+Lớp và tọa độ của nó.
+
+B. Only its color.
+Chỉ màu sắc.
+
+C. Only its name.
+Chỉ tên.
+
+D. Only its size.
+Chỉ kích thước.
+
+Answer: A
+
+Giải thích: Object Detection không chỉ cho biết đó là vật gì, mà còn cho biết nó nằm ở đâu. 
+
+Câu 21
+Can Object Detection detect multiple objects at the same time?
+Object Detection có thể phát hiện nhiều vật thể cùng lúc không?
+
+A. Yes.
+Có.
+
+B. No.
+Không.
+
+C. Only one object per video.
+Chỉ một vật thể trong mỗi video.
+
+D. Only with audio data.
+Chỉ khi có dữ liệu âm thanh.
+
+Answer: A
+
+Giải thích: Slide trang 7 nói thuật toán có thể detect multiple objects at the same time.
+
+Câu 22
+What does Semantic Segmentation do?
+Semantic Segmentation làm gì?
+
+A. It labels each pixel with a specific class.
+Nó gán cho mỗi pixel một lớp cụ thể.
+
+B. It only draws one bounding box.
+Nó chỉ vẽ một bounding box.
+
+C. It generates new images.
+Nó tạo ảnh mới.
+
+D. It measures motor speed.
+Nó đo tốc độ động cơ.
+
+Answer: A
+
+Câu 23
+What is the main difference between Semantic Segmentation and Object Detection?
+Sự khác biệt chính giữa Semantic Segmentation và Object Detection là gì?
+
+A. Segmentation labels pixels, while Object Detection mainly uses bounding boxes.
+Segmentation gán nhãn các pixel, còn Object Detection chủ yếu sử dụng các khung bao.
+
+B. They are exactly the same.
+Chúng hoàn toàn giống nhau.
+
+C. Object Detection labels every pixel.
+Object Detection gán nhãn từng pixel.
+
+D. Segmentation cannot identify objects.
+Segmentation không thể xác định vật thể.
+
+Answer: A
+
+Giải thích: Đây là điểm rất dễ thi:
+
+Object Detection → Bounding Box
+
+Semantic Segmentation → Pixel-level classification. 
+
+Câu 24
+Why is Semantic Segmentation useful in autonomous driving?
+Tại sao Semantic Segmentation hữu ích trong xe tự hành?
+
+A. It can clearly separate boundaries of lanes, sidewalks, and obstacles.
+Nó có thể phân tách rõ ranh giới của làn đường, vỉa hè và vật cản.
+
+B. It increases battery capacity.
+Nó tăng dung lượng pin.
+
+C. It controls engine temperature.
+Nó điều khiển nhiệt độ động cơ.
+
+D. It only detects faces.
+Nó chỉ phát hiện khuôn mặt.
+
+Answer: A
+
+Keypoint Detection
+Câu 25
+What does Keypoint Detection identify?
+Keypoint Detection xác định gì?
+
+A. Specific points of interest within an object.
+Các điểm đặc trưng cụ thể bên trong một vật thể.
+
+B. Every pixel in an image.
+Mọi pixel trong hình ảnh.
+
+C. Only the image background.
+Chỉ nền hình ảnh.
+
+D. Only object colors.
+Chỉ màu của vật thể.
+
+Answer: A
+
+Câu 26
+Which is an example of a keypoint mentioned in the slide?
+Đâu là ví dụ về keypoint được đề cập trong slide?
+
+A. A joint in a human body.
+Một khớp trên cơ thể người.
+
+B. Battery voltage.
+Điện áp pin.
+
+C. Motor speed.
+Tốc độ động cơ.
+
+D. Network address.
+Địa chỉ mạng.
+
+Answer: A
+
+Câu 27
+Which facial features can be detected using Keypoint Detection?
+Những đặc điểm khuôn mặt nào có thể được phát hiện bằng Keypoint Detection?
+
+A. Eyes, nose, and mouth.
+Mắt, mũi và miệng.
+
+B. Hair color only.
+Chỉ màu tóc.
+
+C. Voice and sound.
+Giọng nói và âm thanh.
+
+D. Body temperature only.
+Chỉ nhiệt độ cơ thể.
+
+Answer: A
+
+Câu 28
+Keypoint Detection can also be used for:
+Keypoint Detection còn có thể được sử dụng cho:
+
+A. Object tracking and action recognition.
+Theo dõi vật thể và nhận diện hành động.
+
+B. Battery charging.
+Sạc pin.
+
+C. Database management.
+Quản lý cơ sở dữ liệu.
+
+D. Network routing.
+Định tuyến mạng.
+
+Answer: A
+
+Giải thích: Slide trang 9 cho biết keypoints có thể xác định vật thể và theo dõi trajectory, hỗ trợ object tracking/action recognition. 
+
+Computer Vision Models
+Câu 29
+What do Computer Vision models in Deep Learning process and analyze?
+Các mô hình Computer Vision trong Deep Learning xử lý và phân tích gì?
+
+A. Visual data such as images and videos.
+Dữ liệu trực quan như hình ảnh và video.
+
+B. Only audio.
+Chỉ âm thanh.
+
+C. Only text.
+Chỉ văn bản.
+
+D. Only motor signals.
+Chỉ tín hiệu động cơ.
+
+Answer: A
+
+Câu 30
+What do Computer Vision models require for training?
+Các mô hình Computer Vision cần gì để huấn luyện?
+
+A. A large amount of training data.
+Một lượng lớn dữ liệu huấn luyện.
+
+B. No data.
+Không cần dữ liệu.
+
+C. Only one image.
+Chỉ một hình ảnh.
+
+D. Only audio files.
+Chỉ các tệp âm thanh.
+
+Answer: A
+
+Giải thích: Slide cũng đề cập architecture for feature extraction và inference pipeline. 
+
+Câu 31
+What does CNN stand for?
+CNN là viết tắt của gì?
+
+A. Convolutional Neural Networks.
+Mạng nơ-ron tích chập.
+
+B. Computer Neural Navigation.
+Điều hướng nơ-ron máy tính.
+
+C. Control Network Node.
+Nút mạng điều khiển.
+
+D. Computer Navigation Network.
+Mạng điều hướng máy tính.
+
+Answer: A
+
+Câu 32
+What did CNNs revolutionize according to the slide?
+Theo slide, CNN đã tạo ra bước đột phá trong lĩnh vực nào?
+
+A. Image classification and feature extraction.
+Phân loại hình ảnh và trích xuất đặc trưng.
+
+B. Database storage.
+Lưu trữ cơ sở dữ liệu.
+
+C. Robot batteries.
+Pin robot.
+
+D. Network communication.
+Truyền thông mạng.
+
+Answer: A
+
+Câu 33
+How do CNNs extract features from images?
+CNN trích xuất đặc trưng từ hình ảnh bằng cách nào?
+
+A. By applying convolutional filters.
+Bằng cách áp dụng các bộ lọc tích chập.
+
+B. By using GPS.
+Bằng cách sử dụng GPS.
+
+C. By using sound waves.
+Bằng cách sử dụng sóng âm.
+
+D. By controlling motors.
+Bằng cách điều khiển động cơ.
+
+Answer: A
+
+Câu 34
+Which simple features can CNNs identify in earlier layers?
+CNN có thể xác định những đặc trưng đơn giản nào ở các lớp đầu?
+
+A. Colors and edges.
+Màu sắc và cạnh.
+
+B. Complete objects only.
+Chỉ các vật thể hoàn chỉnh.
+
+C. Sound and speech.
+Âm thanh và giọng nói.
+
+D. Motor speed and torque.
+Tốc độ động cơ và mô-men xoắn.
+
+Answer: A
+
+Giải thích: CNN trích xuất theo cấp bậc: các lớp đầu nhận simple features như colors/edges, rồi các lớp sau nhận các thành phần lớn hơn để xác định target object. 
+
+Object Detection Models
+Câu 35
+Object Detection models can differ based on which factors?
+Các mô hình Object Detection có thể khác nhau dựa trên những yếu tố nào?
+
+A. Computational efficiency, real-time analysis, and accuracy.
+Hiệu quả tính toán, phân tích thời gian thực và độ chính xác.
+
+B. Battery color and size.
+Màu sắc và kích thước pin.
+
+C. Motor type only.
+Chỉ loại động cơ.
+
+D. Network speed only.
+Chỉ tốc độ mạng.
+
+Answer: A
+
+Giải thích: Đây là ba tiêu chí được nêu trực tiếp trên trang 12. 
+
+Câu 36
+What does YOLO stand for?
+YOLO là viết tắt của gì?
+
+A. You Only Look Once.
+Bạn chỉ nhìn một lần.
+
+B. Your Object Learning Output.
+Đầu ra học vật thể của bạn.
+
+C. You Observe Local Objects.
+Bạn quan sát các vật thể cục bộ.
+
+D. Your Online Learning Operation.
+Hoạt động học trực tuyến của bạn.
+
+Answer: A
+
+Câu 37
+How does YOLO process an image?
+YOLO xử lý một hình ảnh như thế nào?
+
+A. It processes the entire image in a single pass.
+Nó xử lý toàn bộ hình ảnh trong một lần.
+
+B. It always requires two stages.
+Nó luôn yêu cầu hai giai đoạn.
+
+C. It processes only one pixel.
+Nó chỉ xử lý một pixel.
+
+D. It only processes audio.
+Nó chỉ xử lý âm thanh.
+
+Answer: A
+
+Câu 38
+What does YOLO predict simultaneously?
+YOLO dự đoán đồng thời những gì?
+
+A. Bounding boxes and class probabilities.
+Các khung bao và xác suất lớp.
+
+B. Motor speed and torque.
+Tốc độ động cơ và mô-men xoắn.
+
+C. Audio and text.
+Âm thanh và văn bản.
+
+D. Position and battery voltage.
+Vị trí và điện áp pin.
+
+Answer: A
+
+Câu 39
+Why is YOLO suitable for real-time applications?
+Tại sao YOLO phù hợp với các ứng dụng thời gian thực?
+
+A. Because it is exceptionally fast.
+Vì nó rất nhanh.
+
+B. Because it always has the highest accuracy.
+Vì nó luôn có độ chính xác cao nhất.
+
+C. Because it does not process images.
+Vì nó không xử lý hình ảnh.
+
+D. Because it uses two stages.
+Vì nó sử dụng hai giai đoạn.
+
+Answer: A
+
+Câu 40
+What is a limitation of YOLO mentioned in the slide?
+Một hạn chế của YOLO được đề cập trong slide là gì?
+
+A. Speed can come at the cost of accuracy, especially for small or densely packed objects.
+Tốc độ có thể đánh đổi bằng độ chính xác, đặc biệt với vật thể nhỏ hoặc nằm dày đặc.
+
+B. It cannot process images.
+Nó không thể xử lý hình ảnh.
+
+C. It cannot work in real time.
+Nó không thể hoạt động thời gian thực.
+
+D. It only works with audio.
+Nó chỉ hoạt động với âm thanh.
+
+Answer: A
+
+Giải thích: YOLO ưu tiên tốc độ, nhưng có thể giảm accuracy với small or densely packed objects. 
+
+Câu 41
+What type of detector is Faster R-CNN?
+Faster R-CNN là loại detector nào?
+
+A. A two-stage detector.
+Một bộ phát hiện hai giai đoạn.
+
+B. A one-stage detector.
+Một bộ phát hiện một giai đoạn.
+
+C. A sound detector.
+Một bộ phát hiện âm thanh.
+
+D. A motion sensor.
+Một cảm biến chuyển động.
+
+Answer: A
+
+Câu 42
+How does Faster R-CNN compare with YOLO?
+Faster R-CNN so với YOLO như thế nào?
+
+A. It is slower but achieves high accuracy in complex scenes.
+Nó chậm hơn nhưng đạt độ chính xác cao trong các cảnh phức tạp.
+
+B. It is always faster and less accurate.
+Nó luôn nhanh hơn và kém chính xác hơn.
+
+C. They are exactly the same.
+Chúng hoàn toàn giống nhau.
+
+D. Faster R-CNN cannot detect objects.
+Faster R-CNN không thể phát hiện vật thể.
+
+Answer: A
+
+Giải thích: Slide mô tả Faster R-CNN phù hợp khi precision is more critical than speed. 
+
+Câu 43
+How does SSD process an image?
+SSD xử lý một hình ảnh như thế nào?
+
+A. In a single pass.
+Trong một lần.
+
+B. In exactly three stages.
+Trong đúng ba giai đoạn.
+
+C. Without using image data.
+Không sử dụng dữ liệu hình ảnh.
+
+D. Using only audio data.
+Chỉ sử dụng dữ liệu âm thanh.
+
+Answer: A
+
+Câu 44
+What does SSD use to detect objects of various sizes?
+SSD sử dụng gì để phát hiện các vật thể có nhiều kích thước khác nhau?
+
+A. Multiple feature maps at different scales.
+Nhiều feature map ở các tỷ lệ khác nhau.
+
+B. Only one pixel.
+Chỉ một pixel.
+
+C. Only one bounding box.
+Chỉ một bounding box.
+
+D. Sound waves.
+Sóng âm.
+
+Answer: A
+
+Câu 45
+How does SSD compare with Faster R-CNN and YOLO according to the slide?
+Theo slide, SSD so với Faster R-CNN và YOLO như thế nào?
+
+A. It is faster than Faster R-CNN and generally more accurate than YOLO.
+Nó nhanh hơn Faster R-CNN và nhìn chung chính xác hơn YOLO.
+
+B. It is slower than both models.
+Nó chậm hơn cả hai mô hình.
+
+C. It cannot detect objects.
+Nó không thể phát hiện vật thể.
+
+D. It is identical to Faster R-CNN.
+Nó giống hoàn toàn Faster R-CNN.
+
+Answer: A
+
+Giải thích: Đây là so sánh đúng theo slide, không mở rộng ngoài tài liệu. 
+
+Câu 46
+What type of detector is RetinaNet?
+RetinaNet là loại detector nào?
+
+A. A one-stage detector.
+Một bộ phát hiện một giai đoạn.
+
+B. A two-stage detector.
+Một bộ phát hiện hai giai đoạn.
+
+C. A motion sensor.
+Một cảm biến chuyển động.
+
+D. A generative model.
+Một mô hình sinh.
+
+Answer: A
+
+Câu 47
+What challenge does RetinaNet address with focal loss?
+RetinaNet giải quyết vấn đề nào bằng focal loss?
+
+A. Class imbalance.
+Mất cân bằng lớp.
+
+B. Battery consumption.
+Tiêu thụ pin.
+
+C. Motor speed.
+Tốc độ động cơ.
+
+D. Network delay.
+Độ trễ mạng.
+
+Answer: A
+
+Giải thích: RetinaNet → Focal Loss → Class Imbalance. Nó đặc biệt hiệu quả khi phát hiện small objects in cluttered environments. 
+
+Generative Models
+Câu 48
+What is the main goal of Generative Models?
+Mục tiêu chính của Generative Models là gì?
+
+A. To learn the underlying data distribution and create new similar samples.
+Học phân phối cơ bản của dữ liệu và tạo ra các mẫu mới tương tự.
+
+B. Only to predict labels.
+Chỉ dự đoán nhãn.
+
+C. Only to detect objects.
+Chỉ phát hiện vật thể.
+
+D. Only to control robots.
+Chỉ điều khiển robot.
+
+Answer: A
+
+Giải thích: Slide phân biệt: discriminative models tập trung dự đoán labels/classes, còn generative models học phân phối dữ liệu để tạo ra mẫu mới tương tự. 
+
+Câu 49
+Which of the following is a Generative Model mentioned in the slide?
+Đâu là một Generative Model được đề cập trong slide?
+
+A. GAN.
+Mạng đối nghịch sinh.
+
+B. YOLO only.
+Chỉ YOLO.
+
+C. Faster R-CNN only.
+Chỉ Faster R-CNN.
+
+D. RetinaNet only.
+Chỉ RetinaNet.
+
+Answer: A
+
+Giải thích: Slide liệt kê:
+
+GANs → VAEs → Autoregressive Models → Flow-based Models.
+
+Câu 50
+Which of the following is an application of Generative Models mentioned in the slide?
+Đâu là một ứng dụng của Generative Models được đề cập trong slide?
+
+A. Image synthesis, super-resolution, style transfer, and data augmentation.
+Tổng hợp hình ảnh, tăng độ phân giải, chuyển đổi phong cách và tăng cường dữ liệu.
+
+B. Only motor control.
+Chỉ điều khiển động cơ.
+
+C. Only navigation.
+Chỉ điều hướng.
+
+D. Only battery management.
+Chỉ quản lý pin.
+
+Answer: A
+
+Giải thích: Đây là 4 ứng dụng được slide liệt kê trực tiếp cho Generative Models. 
+
+Phần cần thuộc nhất
+Computer Vision pipeline:
+
+Image Acquisition
+Thu nhận hình ảnh
+↓
+Data Preprocessing
+Tiền xử lý dữ liệu
+↓
+Feature Extraction
+Trích xuất đặc trưng
+↓
+High-Level Understanding
+Hiểu ở mức cao
+
+Object Detection → Bounding Boxes
+Phát hiện vật thể → khung bao
+
+Semantic Segmentation → Each Pixel
+Phân đoạn ngữ nghĩa → từng pixel
+
+Keypoint Detection → Points of Interest
+Phát hiện điểm đặc trưng
+
+Và nhóm model rất dễ ra:
+
+YOLO → Single pass → Very fast → Real-time
+
+Faster R-CNN → Two-stage → Slower → High accuracy
+
+SSD → Single pass → Multiple feature maps
+
+RetinaNet → One-stage → Focal loss → Class imbalance
+
+CNN → Convolutional filters → Feature extraction
+
+Generative Models → GANs, VAEs, Autoregressive, Flow-based. 
+
+
+AI Robotics #5-Autonomous Navigation.pptx.pdf
+PDF
+đây nữa
+Được. File này là Autonomous Navigation, 12 trang. Mình làm tiếp 50 câu đúng format trên Anh – dưới Việt, dịch cả A/B/C/D, có đáp án và giải thích, và chỉ bám nội dung trong slide. 
+
+AI & Robotics — Autonomous Navigation
+50 Multiple Choice Questions
+Câu 1
+What is Autonomous Navigation?
+Autonomous Navigation là gì?
+
+A. The ability of vehicles or robots to navigate and move independently without human intervention.
+Khả năng của phương tiện hoặc robot tự điều hướng và di chuyển mà không cần sự can thiệp của con người.
+
+B. The ability of robots to move only with human control.
+Khả năng robot chỉ di chuyển khi có con người điều khiển.
+
+C. A method used only for image processing.
+Một phương pháp chỉ dùng để xử lý hình ảnh.
+
+D. A system used only to control motors.
+Một hệ thống chỉ dùng để điều khiển động cơ.
+
+Answer: A
+
+Giải thích: Theo slide:
+
+Autonomous Navigation → Navigate + Move Independently → Without Human Intervention
+
+Tự điều hướng + tự di chuyển → không cần con người can thiệp. 
+
+Câu 2
+Which task is involved in Autonomous Navigation?
+Nhiệm vụ nào liên quan đến Autonomous Navigation?
+
+A. Transporting loads.
+Vận chuyển hàng hóa.
+
+B. Creating websites.
+Tạo trang web.
+
+C. Managing databases.
+Quản lý cơ sở dữ liệu.
+
+D. Sending emails.
+Gửi email.
+
+Answer: A
+
+Giải thích: Slide liệt kê các nhiệm vụ như transporting loads, avoiding obstacles, adapting to different scenarios.
+
+Câu 3
+Which ability allows an autonomous robot to move safely around objects?
+Khả năng nào cho phép robot tự hành di chuyển an toàn xung quanh các vật thể?
+
+A. Obstacle avoidance.
+Tránh vật cản.
+
+B. Image generation.
+Tạo hình ảnh.
+
+C. Data storage.
+Lưu trữ dữ liệu.
+
+D. Audio processing.
+Xử lý âm thanh.
+
+Answer: A
+
+Câu 4
+Autonomous Navigation must ensure precise and reliable ______.
+Autonomous Navigation phải đảm bảo ______ chính xác và đáng tin cậy.
+
+A. Localization.
+Định vị.
+
+B. Image generation.
+Tạo hình ảnh.
+
+C. Audio recording.
+Ghi âm.
+
+D. Data compression.
+Nén dữ liệu.
+
+Answer: A
+
+Giải thích: Slide nhấn mạnh precise and reliable localization – định vị chính xác và đáng tin cậy. 
+
+Câu 5
+Which domain uses Autonomous Navigation according to the slide?
+Theo slide, lĩnh vực nào sử dụng Autonomous Navigation?
+
+A. Industrial settings.
+Môi trường công nghiệp.
+
+B. Social media only.
+Chỉ mạng xã hội.
+
+C. Web development only.
+Chỉ phát triển web.
+
+D. Email systems only.
+Chỉ hệ thống email.
+
+Answer: A
+
+Câu 6
+Autonomous Navigation is important for the development of:
+Autonomous Navigation quan trọng đối với sự phát triển của:
+
+A. Smart factories.
+Nhà máy thông minh.
+
+B. Text editors.
+Trình soạn thảo văn bản.
+
+C. Social networks.
+Mạng xã hội.
+
+D. Online games only.
+Chỉ trò chơi trực tuyến.
+
+Answer: A
+
+How It Works
+Câu 7
+What does a person first do when entering a new space?
+Một người trước tiên làm gì khi bước vào một không gian mới?
+
+A. Assess the environment and create a mental map.
+Đánh giá môi trường và tạo bản đồ trong đầu.
+
+B. Close their eyes.
+Nhắm mắt.
+
+C. Ignore the environment.
+Bỏ qua môi trường.
+
+D. Immediately leave the space.
+Rời khỏi không gian ngay lập tức.
+
+Answer: A
+
+Giải thích: Slide dùng con người để minh họa cơ chế autonomous navigation: đầu tiên là assessing the environment + creating a mental map. 
+
+Câu 8
+What is a mental map used for?
+Bản đồ trong đầu được sử dụng để làm gì?
+
+A. To understand how to navigate the environment.
+Để hiểu cách điều hướng trong môi trường.
+
+B. To recognize speech.
+Để nhận dạng giọng nói.
+
+C. To generate images.
+Để tạo hình ảnh.
+
+D. To control a database.
+Để điều khiển cơ sở dữ liệu.
+
+Answer: A
+
+Câu 9
+What must a person detect and avoid while moving around a space?
+Một người phải phát hiện và tránh gì khi di chuyển trong một không gian?
+
+A. Obstacles.
+Vật cản.
+
+B. Images.
+Hình ảnh.
+
+C. Databases.
+Cơ sở dữ liệu.
+
+D. Networks.
+Mạng.
+
+Answer: A
+
+Câu 10
+Which three activities are highlighted in the navigation process?
+Ba hoạt động nào được nhấn mạnh trong quá trình điều hướng?
+
+A. Mapping the environment, navigating, and avoiding obstacles.
+Lập bản đồ môi trường, điều hướng và tránh vật cản.
+
+B. Detecting faces, generating images, and storing data.
+Phát hiện khuôn mặt, tạo hình ảnh và lưu dữ liệu.
+
+C. Controlling motors, charging batteries, and sending data.
+Điều khiển động cơ, sạc pin và gửi dữ liệu.
+
+D. Programming, compiling, and testing.
+Lập trình, biên dịch và kiểm thử.
+
+Answer: A
+
+Giải thích: Ba ý được ghi trực tiếp trên trang 5:
+
+Mapping the environment → Navigating → Avoiding Obstacles. 
+
+Core Components
+Câu 11
+What are the four core components of Autonomous Navigation?
+Bốn thành phần cốt lõi của Autonomous Navigation là gì?
+
+A. Sensing, Localization, Planning, and Control.
+Cảm nhận, Định vị, Lập kế hoạch và Điều khiển.
+
+B. Camera, Motor, Battery, and CPU.
+Camera, Động cơ, Pin và CPU.
+
+C. Input, Output, Database, and Network.
+Đầu vào, Đầu ra, Cơ sở dữ liệu và Mạng.
+
+D. Detection, Classification, Training, and Testing.
+Phát hiện, Phân loại, Huấn luyện và Kiểm thử.
+
+Answer: A
+
+Giải thích: Đây là 4 thành phần quan trọng nhất của bài:
+
+Sensing → Localization → Planning → Control. 
+
+Câu 12
+What is the main purpose of Sensing?
+Mục đích chính của Sensing là gì?
+
+A. To scan the surroundings.
+Quét môi trường xung quanh.
+
+B. To calculate the final route only.
+Chỉ tính toán tuyến đường cuối cùng.
+
+C. To move the motors.
+Điều khiển động cơ chuyển động.
+
+D. To generate images.
+Tạo hình ảnh.
+
+Answer: A
+
+Câu 13
+Which device is used for Sensing according to the slide?
+Theo slide, thiết bị nào được sử dụng cho Sensing?
+
+A. LiDAR.
+LiDAR.
+
+B. Keyboard.
+Bàn phím.
+
+C. Printer.
+Máy in.
+
+D. Speaker.
+Loa.
+
+Answer: A
+
+Câu 14
+Which group contains only sensing tools mentioned in the slide?
+Nhóm nào chỉ chứa các công cụ sensing được đề cập trong slide?
+
+A. LiDAR, cameras, and IMUs.
+LiDAR, camera và IMU.
+
+B. GPS, motors, and batteries.
+GPS, động cơ và pin.
+
+C. Keyboard, mouse, and monitor.
+Bàn phím, chuột và màn hình.
+
+D. CPU, RAM, and SSD.
+CPU, RAM và SSD.
+
+Answer: A
+
+Giải thích: Sensing sử dụng:
+
+LiDAR + Cameras + IMUs → Scan Surroundings. 
+
+Câu 15
+What does IMU stand for?
+IMU là viết tắt của gì?
+
+A. Inertial Measurement Unit.
+Đơn vị đo quán tính.
+
+B. Internal Mapping Unit.
+Đơn vị lập bản đồ nội bộ.
+
+C. Intelligent Motion Utility.
+Tiện ích chuyển động thông minh.
+
+D. Integrated Mapping User.
+Người dùng lập bản đồ tích hợp.
+
+Answer: A
+
+Câu 16
+What is the purpose of Localization?
+Mục đích của Localization là gì?
+
+A. To determine the exact position of the vehicle.
+Xác định vị trí chính xác của phương tiện.
+
+B. To generate new images.
+Tạo hình ảnh mới.
+
+C. To detect human faces only.
+Chỉ phát hiện khuôn mặt.
+
+D. To control battery charging.
+Điều khiển sạc pin.
+
+Answer: A
+
+Câu 17
+Which technologies can be used for Localization?
+Những công nghệ nào có thể được sử dụng cho Localization?
+
+A. SLAM or GPS.
+SLAM hoặc GPS.
+
+B. CNN or YOLO only.
+Chỉ CNN hoặc YOLO.
+
+C. HTTP or TCP.
+HTTP hoặc TCP.
+
+D. HTML or CSS.
+HTML hoặc CSS.
+
+Answer: A
+
+Giải thích: Theo slide:
+
+Localization → Exact Position → SLAM / GPS. 
+
+Câu 18
+What does SLAM stand for?
+SLAM là viết tắt của gì?
+
+A. Simultaneous Localization and Mapping.
+Định vị và lập bản đồ đồng thời.
+
+B. System Localization and Movement.
+Hệ thống định vị và chuyển động.
+
+C. Smart Location and Motor.
+Vị trí thông minh và động cơ.
+
+D. Sensor Learning and Mapping.
+Học cảm biến và lập bản đồ.
+
+Answer: A
+
+Câu 19
+What does Planning do in Autonomous Navigation?
+Planning làm gì trong Autonomous Navigation?
+
+A. Processes map data to find safe and efficient routes.
+Xử lý dữ liệu bản đồ để tìm tuyến đường an toàn và hiệu quả.
+
+B. Captures images only.
+Chỉ chụp hình ảnh.
+
+C. Controls the battery.
+Điều khiển pin.
+
+D. Stores sensor data only.
+Chỉ lưu dữ liệu cảm biến.
+
+Answer: A
+
+Câu 20
+What should a Planning algorithm consider while finding a route?
+Thuật toán Planning phải xem xét điều gì khi tìm tuyến đường?
+
+A. Avoiding obstacles.
+Tránh vật cản.
+
+B. Increasing image size.
+Tăng kích thước hình ảnh.
+
+C. Changing image color.
+Thay đổi màu hình ảnh.
+
+D. Increasing battery voltage.
+Tăng điện áp pin.
+
+Answer: A
+
+Giải thích: Planning cần tìm đường vừa safe, vừa efficient, đồng thời avoiding obstacles. 
+
+Câu 21
+What is responsible for executing the planned motion?
+Thành phần nào chịu trách nhiệm thực hiện chuyển động đã được lập kế hoạch?
+
+A. Actuators and motors.
+Cơ cấu chấp hành và động cơ.
+
+B. Cameras only.
+Chỉ camera.
+
+C. GPS only.
+Chỉ GPS.
+
+D. LiDAR only.
+Chỉ LiDAR.
+
+Answer: A
+
+Câu 22
+When does the Control component execute the planned motion?
+Thành phần Control thực hiện chuyển động đã lập kế hoạch khi nào?
+
+A. In real time.
+Theo thời gian thực.
+
+B. Once a day.
+Một lần mỗi ngày.
+
+C. Before sensing.
+Trước khi cảm nhận.
+
+D. Only after the robot stops.
+Chỉ sau khi robot dừng.
+
+Answer: A
+
+Giải thích: Control → Actuators + Motors → Execute planned motion in real time. 
+
+Câu 23
+Which component scans the surroundings?
+Thành phần nào quét môi trường xung quanh?
+
+A. Sensing.
+Cảm nhận.
+
+B. Localization.
+Định vị.
+
+C. Planning.
+Lập kế hoạch.
+
+D. Control.
+Điều khiển.
+
+Answer: A
+
+Câu 24
+Which component determines the vehicle's exact position?
+Thành phần nào xác định vị trí chính xác của phương tiện?
+
+A. Localization.
+Định vị.
+
+B. Sensing.
+Cảm nhận.
+
+C. Control.
+Điều khiển.
+
+D. Actuation.
+Chấp hành.
+
+Answer: A
+
+Câu 25
+Which component finds a safe and efficient route?
+Thành phần nào tìm tuyến đường an toàn và hiệu quả?
+
+A. Planning.
+Lập kế hoạch.
+
+B. Localization.
+Định vị.
+
+C. Control.
+Điều khiển.
+
+D. Sensing.
+Cảm nhận.
+
+Answer: A
+
+Câu 26
+Which component finally makes the robot physically move?
+Thành phần nào cuối cùng làm robot chuyển động vật lý?
+
+A. Control.
+Điều khiển.
+
+B. Localization.
+Định vị.
+
+C. Mapping.
+Lập bản đồ.
+
+D. Sensing.
+Cảm nhận.
+
+Answer: A
+
+Giải thích: Nhớ chuỗi:
+
+Sensing → Localization → Planning → Control
+
+Nhìn môi trường → Biết mình ở đâu → Tìm đường → Di chuyển.
+
+Main Uses
+Câu 27
+What is a common use of Autonomous Navigation?
+Một ứng dụng phổ biến của Autonomous Navigation là gì?
+
+A. Self-driving cars.
+Xe tự lái.
+
+B. Text editors.
+Trình soạn thảo văn bản.
+
+C. Email clients.
+Ứng dụng email.
+
+D. Web browsers.
+Trình duyệt web.
+
+Answer: A
+
+Câu 28
+What is the goal of Autonomous Navigation in self-driving cars?
+Mục tiêu của Autonomous Navigation trong xe tự lái là gì?
+
+A. Traveling safely on public roads and highways.
+Di chuyển an toàn trên đường công cộng và đường cao tốc.
+
+B. Generating images.
+Tạo hình ảnh.
+
+C. Managing inventory.
+Quản lý hàng tồn kho.
+
+D. Controlling factory machines only.
+Chỉ điều khiển máy móc nhà máy.
+
+Answer: A
+
+Câu 29
+How is Autonomous Navigation used in warehouses?
+Autonomous Navigation được sử dụng trong kho hàng như thế nào?
+
+A. Moving inventory and pallets with autonomous mobile robots.
+Di chuyển hàng tồn kho và pallet bằng robot di động tự hành.
+
+B. Detecting diseases.
+Phát hiện bệnh.
+
+C. Creating websites.
+Tạo website.
+
+D. Recognizing speech.
+Nhận dạng giọng nói.
+
+Answer: A
+
+Câu 30
+What does AMR stand for in the context of warehouses?
+Trong bối cảnh kho hàng, AMR là viết tắt của gì?
+
+A. Autonomous Mobile Robot.
+Robot di động tự hành.
+
+B. Automatic Mapping Route.
+Tuyến lập bản đồ tự động.
+
+C. Artificial Motion Radar.
+Radar chuyển động nhân tạo.
+
+D. Autonomous Motor Rotation.
+Chuyển động quay động cơ tự hành.
+
+Answer: A
+
+Câu 31
+How is Autonomous Navigation used in aerospace?
+Autonomous Navigation được sử dụng trong hàng không vũ trụ như thế nào?
+
+A. Guiding drones and spacecraft through unknown terrain.
+Dẫn đường cho drone và tàu vũ trụ qua địa hình chưa biết.
+
+B. Managing websites.
+Quản lý website.
+
+C. Processing text.
+Xử lý văn bản.
+
+D. Charging batteries.
+Sạc pin.
+
+Answer: A
+
+Giải thích: Ba ứng dụng chính trong slide:
+
+Self-driving cars → Warehouses → Aerospace. 
+
+Capabilities of Autonomous Systems
+Câu 32
+According to the diagram, what is the first capability of an autonomous system?
+Theo sơ đồ, khả năng đầu tiên của một hệ thống tự hành là gì?
+
+A. Sense.
+Cảm nhận.
+
+B. Plan.
+Lập kế hoạch.
+
+C. Act.
+Hành động.
+
+D. Stop.
+Dừng.
+
+Answer: A
+
+Giải thích: Sơ đồ trang 9 mô tả:
+
+Physical World → Sense → Perceive → Plan → Act → Physical World.
+
+Câu 33
+What does the Sense stage do?
+Giai đoạn Sense làm gì?
+
+A. Collects data about the environment.
+Thu thập dữ liệu về môi trường.
+
+B. Creates a path to the goal.
+Tạo đường đi đến mục tiêu.
+
+C. Controls the vehicle.
+Điều khiển phương tiện.
+
+D. Classifies images only.
+Chỉ phân loại hình ảnh.
+
+Answer: A
+
+Câu 34
+What happens during the Perceive stage?
+Điều gì xảy ra trong giai đoạn Perceive?
+
+A. The system interprets data.
+Hệ thống diễn giải dữ liệu.
+
+B. The system turns off.
+Hệ thống tắt.
+
+C. The battery is charged.
+Pin được sạc.
+
+D. The map is deleted.
+Bản đồ bị xóa.
+
+Answer: A
+
+Câu 35
+Which task is shown under Perceive in the slide diagram?
+Nhiệm vụ nào được hiển thị dưới Perceive trong sơ đồ của slide?
+
+A. Track objects.
+Theo dõi vật thể.
+
+B. Charge battery.
+Sạc pin.
+
+C. Send email.
+Gửi email.
+
+D. Control motor voltage.
+Điều khiển điện áp động cơ.
+
+Answer: A
+
+Câu 36
+Which of the following is also part of Perceive?
+Đâu cũng là một phần của Perceive?
+
+A. Build models.
+Xây dựng mô hình.
+
+B. Move inventory.
+Di chuyển hàng tồn kho.
+
+C. Charge the robot.
+Sạc robot.
+
+D. Generate websites.
+Tạo website.
+
+Answer: A
+
+Câu 37
+Which function appears under Perceive in the autonomous system diagram?
+Chức năng nào xuất hiện dưới Perceive trong sơ đồ hệ thống tự hành?
+
+A. Estimate state/localization.
+Ước lượng trạng thái/định vị.
+
+B. Increase battery power.
+Tăng công suất pin.
+
+C. Generate audio.
+Tạo âm thanh.
+
+D. Send network packets.
+Gửi các gói mạng.
+
+Answer: A
+
+Câu 38
+What does the Plan stage do?
+Giai đoạn Plan làm gì?
+
+A. Creates a path to the goal.
+Tạo đường đi đến mục tiêu.
+
+B. Collects raw sensor data.
+Thu thập dữ liệu cảm biến thô.
+
+C. Controls the vehicle directly.
+Điều khiển trực tiếp phương tiện.
+
+D. Generates images.
+Tạo hình ảnh.
+
+Answer: A
+
+Câu 39
+What does the Act stage do?
+Giai đoạn Act làm gì?
+
+A. Controls the vehicle to follow the path.
+Điều khiển phương tiện đi theo đường đã lập.
+
+B. Creates the map only.
+Chỉ tạo bản đồ.
+
+C. Collects sensor data.
+Thu thập dữ liệu cảm biến.
+
+D. Detects objects only.
+Chỉ phát hiện vật thể.
+
+Answer: A
+
+Câu 40
+Which sequence correctly represents the capabilities of an autonomous system shown in the slide?
+Chuỗi nào biểu diễn đúng các khả năng của hệ thống tự hành trong slide?
+
+A. Sense → Perceive → Plan → Act.
+Cảm nhận → Nhận thức → Lập kế hoạch → Hành động.
+
+B. Act → Plan → Sense → Perceive.
+Hành động → Lập kế hoạch → Cảm nhận → Nhận thức.
+
+C. Plan → Act → Sense → Perceive.
+Lập kế hoạch → Hành động → Cảm nhận → Nhận thức.
+
+D. Perceive → Act → Plan → Sense.
+Nhận thức → Hành động → Lập kế hoạch → Cảm nhận.
+
+Answer: A
+
+Giải thích: Đây là sơ đồ rất quan trọng ở trang 9:
+
+Physical World → Sense → Perceive → Plan → Act → Physical World. 
+
+Project Ideas
+Câu 41
+What is the first suggested project in the slide?
+Dự án đầu tiên được đề xuất trong slide là gì?
+
+A. Smart Delivery Robot.
+Robot giao hàng tự hành.
+
+B. Face Recognition System.
+Hệ thống nhận diện khuôn mặt.
+
+C. Smart Home System.
+Hệ thống nhà thông minh.
+
+D. Voice Assistant.
+Trợ lý giọng nói.
+
+Answer: A
+
+Câu 42
+What should a Smart Delivery Robot do after receiving the delivery point?
+Smart Delivery Robot nên làm gì sau khi nhận điểm giao hàng?
+
+A. Determine its position.
+Xác định vị trí.
+
+B. Stop permanently.
+Dừng vĩnh viễn.
+
+C. Turn off its sensors.
+Tắt cảm biến.
+
+D. Delete the map.
+Xóa bản đồ.
+
+Answer: A
+
+Câu 43
+Which sequence correctly describes the Smart Delivery Robot?
+Chuỗi nào mô tả đúng Smart Delivery Robot?
+
+A. Receive destination → Determine position → Plan route → Avoid obstacles → Reach destination → Return.
+Nhận điểm giao → Xác định vị trí → Lập đường đi → Tránh vật cản → Đến đích → Quay về.
+
+B. Move → Stop → Delete map → Return.
+Di chuyển → Dừng → Xóa bản đồ → Quay về.
+
+C. Detect face → Generate image → Stop.
+Phát hiện khuôn mặt → Tạo ảnh → Dừng.
+
+D. Scan → Turn off → Wait.
+Quét → Tắt → Chờ.
+
+Answer: A
+
+Giải thích: Đây là quy trình được ghi nguyên trên trang Ideas. 
+
+Câu 44
+What sensor does the Vision-based Autonomous Navigation project use?
+Dự án Vision-based Autonomous Navigation sử dụng cảm biến nào?
+
+A. Camera.
+Camera.
+
+B. Microphone only.
+Chỉ microphone.
+
+C. Temperature sensor only.
+Chỉ cảm biến nhiệt độ.
+
+D. Keyboard.
+Bàn phím.
+
+Answer: A
+
+Câu 45
+What can a Vision-based Autonomous Navigation robot recognize?
+Robot Vision-based Autonomous Navigation có thể nhận biết gì?
+
+A. Paths, obstacles, signs, intersections, and stopping points.
+Đường đi, vật cản, biển báo, giao lộ và điểm dừng.
+
+B. Only human voices.
+Chỉ giọng nói con người.
+
+C. Only temperature.
+Chỉ nhiệt độ.
+
+D. Only battery level.
+Chỉ mức pin.
+
+Answer: A
+
+Câu 46
+Which decisions can the Vision-based Autonomous Navigation robot make?
+Robot Vision-based Autonomous Navigation có thể đưa ra những quyết định nào?
+
+A. Go / Stop / Turn Left / Turn Right.
+Đi / Dừng / Rẽ trái / Rẽ phải.
+
+B. Login / Logout / Register / Delete.
+Đăng nhập / Đăng xuất / Đăng ký / Xóa.
+
+C. Upload / Download / Save / Print.
+Tải lên / Tải xuống / Lưu / In.
+
+D. Open / Close / Copy / Paste.
+Mở / Đóng / Sao chép / Dán.
+
+Answer: A
+
+Câu 47
+What technology is combined with the “Robot finding a person” project?
+Công nghệ nào được kết hợp với dự án “Robot tìm người”?
+
+A. Computer Vision.
+Thị giác máy tính.
+
+B. Database Management.
+Quản lý cơ sở dữ liệu.
+
+C. Web Development.
+Phát triển web.
+
+D. Cloud Storage only.
+Chỉ lưu trữ đám mây.
+
+Answer: A
+
+Câu 48
+Which sequence describes the person-finding robot?
+Chuỗi nào mô tả robot tìm người?
+
+A. Navigate → Scan → Detect person → Approach → Stop.
+Điều hướng → Quét → Phát hiện người → Tiếp cận → Dừng.
+
+B. Stop → Scan → Return → Navigate.
+Dừng → Quét → Quay lại → Điều hướng.
+
+C. Detect → Delete → Turn off → Stop.
+Phát hiện → Xóa → Tắt → Dừng.
+
+D. Scan → Generate image → Return.
+Quét → Tạo ảnh → Quay lại.
+
+Answer: A
+
+Câu 49
+Which tools can be used for the person-finding robot according to the slide?
+Theo slide, những công cụ nào có thể được sử dụng cho robot tìm người?
+
+A. OpenCV, YOLO, and Camera.
+OpenCV, YOLO và Camera.
+
+B. HTML, CSS, and JavaScript.
+HTML, CSS và JavaScript.
+
+C. MySQL, MongoDB, and Redis.
+MySQL, MongoDB và Redis.
+
+D. TCP, UDP, and HTTP.
+TCP, UDP và HTTP.
+
+Answer: A
+
+Giải thích: Slide đề xuất trực tiếp OpenCV / YOLO / Camera cho bài toán tìm người. 
+
+Câu 50
+Which statement best summarizes Autonomous Navigation?
+Câu nào mô tả đúng nhất Autonomous Navigation?
+
+A. A robot senses its environment, determines its location, plans a safe route, and controls its movement without human intervention.
+Robot cảm nhận môi trường, xác định vị trí, lập tuyến đường an toàn và điều khiển chuyển động mà không cần con người can thiệp.
+
+B. A robot only captures images and waits for a human to control every movement.
+Robot chỉ chụp hình và chờ con người điều khiển mọi chuyển động.
+
+C. A robot only detects objects but cannot move.
+Robot chỉ phát hiện vật thể nhưng không thể di chuyển.
+
+D. A robot moves randomly without sensing or planning.
+Robot di chuyển ngẫu nhiên mà không cảm nhận hoặc lập kế hoạch.
+
+Answer: A
+
+Giải thích: Câu này tổng hợp các ý chính của slide:
+
+Sensing → Localization → Planning → Control
+
+Cảm nhận → Định vị → Lập kế hoạch → Điều khiển
+
+và mục tiêu cuối cùng là robot có thể navigate and move independently without human intervention. 
+
+🔥 Phần nên học thuộc trước khi thi
+1. Autonomous Navigation
+
+Navigate + Move Independently → Without Human Intervention
+Tự điều hướng + tự di chuyển → không cần con người can thiệp.
+
+2. Ba hoạt động cơ bản
+
+Mapping → Navigating → Avoiding Obstacles
+Lập bản đồ → Điều hướng → Tránh vật cản.
+
+3. Bốn Core Components
+
+Sensing → Localization → Planning → Control
+
+Sensing: LiDAR + Camera + IMU → scan surroundings.
+Localization: SLAM/GPS → exact position.
+Planning: safe + efficient route → avoid obstacles.
+Control: actuators + motors → execute motion. 
+4. Sơ đồ Autonomous System
+
+Physical World → Sense → Perceive → Plan → Act → Physical World
+
+Sense → Collect data
+Thu thập dữ liệu.
+
+Perceive → Interpret data, track objects, build models, estimate state/localization
+Hiểu dữ liệu, theo dõi vật thể, xây dựng mô hình, ước lượng trạng thái/vị trí.
+
+Plan → Create a path to the goal
+Tạo đường đến mục tiêu.
+
+Act → Control vehicle to follow path
+Điều khiển phương tiện đi theo đường.
+
+Đặc biệt nếu thi trắc nghiệm, mình sẽ ưu tiên thuộc Sensing – Localization – Planning – Control và Sense – Perceive – Plan – Act, vì hai chuỗi này rất dễ bị đảo thứ tự để làm đáp án nhiễu.
+

@@ -1,0 +1,300 @@
+Một quy trình chỉ dùng để làm động cơ chuyển động
+Một quy trình trong đó robot cảm nhận môi trường, ra quyết định và thực hiện chuyển động
+Một quy trình chỉ dùng để thu thập hình ảnh
+Một quy trình dùng để sạc robot
+Động cơ
+Cảm biến
+Cơ cấu chấp hành
+Pin
+Để ra quyết định
+Để sạc pin
+Để chế tạo robot
+Để tắt máy tính
+Thuật toán
+Bánh xe
+Nó thực hiện các chuyển động vật lý
+Nó xóa dữ liệu cảm biến
+Nó dừng vĩnh viễn
+Nó loại bỏ các cảm biến của mình
+Cảm nhận → Xử lý/Ra quyết định → Hành động
+Hành động → Cảm nhận → Dừng
+Động cơ → Cảm biến → Pin
+Hành động → Xóa → Dừng
+Thu thập và hiểu thông tin cảm biến
+Sạc pin
+Chế tạo bánh xe
+Viết báo cáo
+Để điều khiển các hành động vật lý
+Để lưu trữ video
+Để tạo website
+Để viết tài liệu
+Màn hình hiển thị
+Cách các hệ thống tự động hoạt động
+Cách các website hoạt động
+Cách các cơ sở dữ liệu hoạt động
+Cách email hoạt động
+Các trạng thái bên trong
+Chỉ thời tiết bên ngoài
+Tốc độ Internet
+Chỉ dữ liệu bản đồ
+Góc khớp
+Biển báo đường bộ
+Các tòa nhà
+Đèn giao thông
+Cảm biến nội tại
+Cảm biến ngoại tại
+Chỉ camera
+Chỉ LiDAR
+Camera độ sâu
+LiDAR (cảm biến đo khoảng cách bằng laser)
+Mô-men xoắn
+Khoảng cách
+Ánh sáng
+Hình ảnh
+Góc của một khớp robot
+Độ phân giải camera
+Khoảng cách đến vật cản
+Điện áp pin
+Góc khớp
+Tốc độ động cơ
+Mô-men xoắn
+Khoảng cách đến vật cản bên ngoài
+Chính bản thân robot
+Chỉ các robot khác
+Internet
+Dự báo thời tiết
+Dữ liệu bên ngoài
+Chỉ tốc độ động cơ bên trong
+Chỉ góc khớp
+Mã phần mềm
+Bộ xử lý trung tâm (CPU)
+Pin
+Động cơ
+Bộ điều khiển
+Các cảm biến ngoại tại
+Các cảm biến nội tại
+Các bộ điều khiển
+Cảm nhận bên ngoài
+Điều khiển động cơ
+Quản lý pin
+Đo mô-men xoắn bên trong
+Chỉ các cảm biến nội tại
+Kết hợp đầu vào từ nhiều cảm biến
+Loại bỏ toàn bộ dữ liệu cảm biến
+Chỉ điều khiển một động cơ
+Sạc nhiều pin
+Để xây dựng một mô hình thống nhất và chính xác về môi trường xung quanh
+Để tắt cảm biến
+Để giảm số lượng động cơ
+Để sạc robot
+Đầu vào từ nhiều cảm biến
+Chỉ một cảm biến
+Chỉ động cơ
+Chỉ pin
+Một mô hình thống nhất, chính xác
+Thông tin ngẫu nhiên
+Thông tin kém chính xác hơn
+Không có mô hình môi trường
+Hợp nhất dữ liệu
+Tốc độ động cơ
+Chuyển động vật lý
+Điều khiển chuyển động và lực
+Phát triển web
+Quản lý cơ sở dữ liệu
+Quản lý tệp
+Các lệnh chính xác cho cơ cấu chấp hành
+Hình ảnh
+Các website
+Truy vấn cơ sở dữ liệu
+Các lệnh chính xác cho cơ cấu chấp hành
+Dữ liệu camera
+Bản đồ Internet
+Tốc độ mạng
+Phản hồi vòng kín
+Đo mô-men xoắn
+Điều khiển pin
+Lệch đường đi và lỗi cơ khí
+Lỗi website
+Lỗi cơ sở dữ liệu
+Lỗi email
+Sự lệch khỏi đường đi dự định
+Sạc pin
+Nhiệt độ động cơ
+Nó cho phép robot phát hiện và sửa lỗi
+Nó loại bỏ toàn bộ cảm biến
+Nó ngăn chuyển động
+Nó loại bỏ việc điều khiển
+Cập nhật thị giác liên tục
+Cập nhật email
+Chỉ cập nhật thủ công
+Cập nhật cơ sở dữ liệu
+Định vị và lập bản đồ
+Động cơ và pin
+Camera và website
+AI và email
+Xác định vị trí của robot
+Sạc robot
+Đo tốc độ động cơ
+Điều khiển đèn
+Xây dựng một biểu diễn của môi trường
+Điều khiển tốc độ động cơ
+Đo mô-men xoắn
+Điều hướng đáng tin cậy trong không gian chưa biết
+Xây dựng website
+Gửi email
+Sạc pin
+Tích hợp SLAM
+Sao chép cơ sở dữ liệu
+Bộ điều khiển động cơ
+Cơ cấu chấp hành
+Điều khiển mô-men xoắn
+Điều khiển khớp
+Chỉ cảm nhận nội tại
+Điều khiển vòng hở
+Định vị và lập bản đồ đồng thời (SLAM)
+Đo mô-men xoắn
+Đo tốc độ động cơ
+Lưu trữ dữ liệu
+Nhận thức và điều khiển robot
+Cảm biến và điều khiển chuyển động
+Thị giác máy tính
+Điều hướng tự hành
+Để hiểu cách robot tự cân bằng hoạt động
+Để xây dựng một website
+Để hiểu cơ sở dữ liệu
+Để tạo một chatbot AI
+Các vấn đề chuyển động của vật
+Thiết kế cơ sở dữ liệu
+An ninh mạng
+Phát triển web
+Cảm biến cân bằng
+Chỉ cảm biến nhiệt độ
+Cảm biến mạng
+Cảm biến cơ sở dữ liệu
+Quy trình xử lý AI
+Robot di động
+Logic điều khiển
+Robot thị giác
+Thử thách kỹ thuật
+Nguyên mẫu cuối cùng
+Kiến trúc hệ thống
+Robot tránh vật cản
+Các thiết bị phản hồi tiên tiến và thuật toán
+Chỉ camera
+Vị trí, vận tốc và quỹ đạo
+Màu sắc, âm thanh và nhiệt độ
+Chỉ điện áp
+Chỉ hình ảnh
+Vị trí
+Vận tốc
+Quỹ đạo
+Gia tốc
+Lực
+Cảm biến
+Động cơ
+Tự động hóa và robot
+Chỉ mạng xã hội
+Chỉ email
+Chỉ thiết kế web
+Bộ điều khiển chuyển động
+Trình duyệt web
+Cơ sở dữ liệu
+Máy chủ email
+Các cấu hình chuyển động, quỹ đạo và sự phối hợp
+Bố cục website
+Các bảng cơ sở dữ liệu
+Hệ thống nhiều trục
+Các cơ sở dữ liệu
+Các mạng
+Nhiều trục
+Một cảm biến
+Một động cơ
+Một nguồn điện
+Chuyển tín hiệu điều khiển công suất thấp thành tín hiệu công suất cao hơn
+Phát hiện nhiệt
+Chỉ đo vị trí
+Tạo quỹ đạo
+Tín hiệu dòng điện cao hoặc điện áp cao
+Tệp âm thanh
+Bản đồ
+Để điều khiển các cơ cấu chấp hành
+Để lưu trữ dữ liệu
+Để đo nhiệt độ
+Cảm biến phản hồi
+Chỉ CPU
+Bộ mã hóa
+Bàn phím
+Loa
+Màn hình
+Bộ mã hóa, bộ phân giải và bộ chuyển đổi tuyến tính
+Camera, micro và loa
+Động cơ, pin và bánh xe
+CPU, GPU và RAM
+Theo thời gian thực
+Mỗi năm một lần
+Chỉ trước khi chuyển động
+Chỉ sau khi tắt máy
+Vòng điều khiển
+Pin
+Website
+Màn hình hiển thị
+Chuyển động vật lý
+Nhận diện hình ảnh
+Kết xuất website
+Năng lượng điện, thủy lực hoặc khí nén
+Chỉ Internet
+Chỉ năng lượng mặt trời
+Chỉ AI
+Hồng ngoại thụ động
+Vị trí bên trong robot
+Robot hồng ngoại công suất
+Sự quay bên trong thụ động
+Dấu hiệu nhiệt và sự biến đổi năng lượng
+Chỉ tốc độ động cơ
+Chỉ âm thanh
+Các vật thể sống
+Phần mềm
+Cảm biến hồng ngoại thụ động (PIR)
+Bộ phân giải
+Bộ chuyển đổi tuyến tính
+Âm thanh tần số cao
+Chỉ ánh sáng khả kiến
+Điện tần số thấp
+Chỉ nhiệt
+Sóng điện từ
+Năng lượng thủy lực
+Sóng nước
+Bánh răng cơ khí
+Các vật thể đang chuyển động
+Để bảo vệ người vận hành và thiết bị
+Để tăng tốc độ Internet
+Để tạo bản đồ
+Để lưu trữ dữ liệu cảm biến
+Các giới hạn chuyển động
+Lưu lượng truy cập website
+Kích thước cơ sở dữ liệu
+Các thư email
+Mỗi ngày một lần
+Chỉ trước khi bắt đầu
+Chỉ sau khi dừng
+Người vận hành và thiết bị
+Website và cơ sở dữ liệu
+Email và tệp
+Bản đồ và hình ảnh
+Robot tự cân bằng
+Website mua sắm trực tuyến
+Ứng dụng trò chuyện
+Hệ thống cơ sở dữ liệu
+Một drone giữ cân bằng một vật như ly nước mà không làm đổ nước
+Một drone xây dựng website
+Một drone lưu trữ cơ sở dữ liệu
+Một drone gửi email
+Giữ cân bằng các vật trong khi vận chuyển chúng dọc theo một đường đi
+Tạo một website AI
+Phát hiện mật khẩu
+Tạo cơ sở dữ liệu
+Chỉ PIR
+Chỉ bộ điều khiển công suất
+Bộ điều khiển công suất và bộ khuếch đại
+Các cảm biến PIR
+Các bộ chuyển đổi tuyến tính
