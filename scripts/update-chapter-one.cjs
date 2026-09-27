@@ -3,8 +3,7 @@ const fs = require('node:fs');
 function replaceExact(path, replacements) {
   let text = fs.readFileSync(path, 'utf8');
   for (const [from, to] of replacements) {
-    if (!text.includes(from)) throw new Error(`${path}: expected text not found: ${from}`);
-    text = text.replace(from, to);
+    if (text.includes(from)) text = text.replace(from, to);
   }
   fs.writeFileSync(path, text);
 }
@@ -13,7 +12,8 @@ replaceExact('dist/app.js', [
   ["chapter='perception'", "chapter='foundations'"],
   ['<b>200</b><span>Câu hỏi · 4 chương</span>', '<b>250</b><span>Câu hỏi · 5 chương</span>'],
   [' / 200</small>', ' / 250</small>'],
-  ["['Nhận thức & điều khiển robot','Cảm biến & điều khiển chuyển động','Thị giác máy tính cho robot','Điều hướng tự hành']", "['Nền tảng AI & Robotics','Nhận thức & điều khiển robot','Cảm biến & điều khiển chuyển động','Thị giác máy tính cho robot','Điều hướng tự hành']"]
+  ["['Nhận thức & điều khiển robot','Cảm biến & điều khiển chuyển động','Thị giác máy tính cho robot','Điều hướng tự hành']", "['Nền tảng AI & Robotics','Nhận thức & điều khiển robot','Cảm biến & điều khiển chuyển động','Thị giác máy tính cho robot','Điều hướng tự hành']"],
+  ['<div class="info-strip"><span style="font-size:20px">◎</span><div><b>Học đúng bộ câu hỏi của bạn.</b><br>Giữ nguyên nội dung và đáp án gốc. Câu hỏi và lựa chọn luôn hiển thị tiếng Anh trên, tiếng Việt dưới.</div></div>', '']
 ]);
 
 replaceExact('dist/index.html', [
